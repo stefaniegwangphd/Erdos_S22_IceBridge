@@ -1,0 +1,878 @@
+url,listing_id,zipcode,monthly_rent,bedrooms,bathrooms,square_feet,walk_score,transit_score,deposit,latitude,longitude,neighborhood
+https://www.apartments.com/2372-beckwith-dr-indianapolis-in/ze0jqwy/,ze0jqwy,46218,751,2,1.0,679.0,25,33,705,39.80125,-86.12643,Martindale-Brightwood
+https://www.apartments.com/7491-n-shadeland-ave-indianapolis-in/s34dq64/,s34dq64,46250,1795,3,2.0,2500.0,54,33,1795,39.89034,-86.0454,I-69 Fall Creek
+https://www.apartments.com/nice-3-bedroom-ranch-w-2-car-garage-in-pe-indianapolis-in/n669z9m/,n669z9m,46237,1095,3,1.0,1439.0,29,32,1095,39.72238,-86.12113,University Heights
+https://www.apartments.com/1102-n-oakland-ave-indianapolis-in/c4kr5zf/,c4kr5zf,46201,1300,3,1.5,1500.0,67,38,800,39.78265,-86.11278,Near Eastside
+https://www.apartments.com/634-e-10th-st-indianapolis-in/rl2dfp0/,rl2dfp0,46202,1600,2,2.0,1400.0,74,53,1600,39.78089,-86.1461,Chatham Arch
+https://www.apartments.com/1229-burdsal-re-integrity-indianapolis-in/p2ysc1v/,p2ysc1v,46208,650,1,1.0,750.0,34,34,650,39.80035,-86.18366,Near NW Riverside
+https://www.apartments.com/1620-palmer-st-indianapolis-in/49g2vpj/,49g2vpj,46203,825,2,1.0,824.0,57,38,825,39.74641,-86.1317,Near Southeast
+https://www.apartments.com/slate-indianapolis-in/xmkq7xn/,xmkq7xn,46203,1790,0,1.0,596.0,80,61,1790,39.75955,-86.14796,Downtown Indianapolis
+https://www.apartments.com/1226-tecumseh-st-indianapolis-in/hqs00e1/,hqs00e1,46201,2500,3,1.5,1300.0,55,40,1500,39.78448,-86.12626,Near Eastside
+https://www.apartments.com/available-now-indianapolis-in/cbt0d3e/,cbt0d3e,46229,1675,3,1.5,1988.0,4,0,1675,39.78863,-85.96394,East Warren
+https://www.apartments.com/11469-congaree-way-indianapolis-in/0hyy550/,0hyy550,46235,1550,4,3.0,1621.0,9,0,1550,39.83049,-85.96277,Far Eastside
+https://www.apartments.com/6515-knobstone-way-indianapolis-in/wjmp3cj/,wjmp3cj,46203,1495,3,2.5,1781.0,3,0,1495,39.72095,-86.05409,Indianapolis
+https://www.apartments.com/3736-n-meridian-st-indianapolis-in/w4zcjll/,w4zcjll,46208,929,2,1.0,1052.0,74,49,929,39.82359,-86.1573,Crown Hill
+https://www.apartments.com/11417-stoeppelwerth-dr-indianapolis-in/qc2q57y/,qc2q57y,46229,1575,4,2.0,1664.0,3,0,1575,39.79189,-85.96318,East Warren
+https://www.apartments.com/802-charter-woods-drive-indianapolis-in/n9n5w9p/,n9n5w9p,46224,1695,3,2.0,1408.0,27,34,1695,39.77742,-86.25967,Garden City
+https://www.apartments.com/6408-dahlia-dr-indianapolis-in/knn4g39/,knn4g39,46217,1745,3,2.0,1900.0,3,17,1745,39.67318,-86.16302,Linden Wood
+https://www.apartments.com/9535-benchmark-dr-indianapolis-in/rxw3x11/,rxw3x11,46240,1557,1,1.0,655.0,32,18,1557,39.92518,-86.13795,Nora Far Northside
+https://www.apartments.com/434-canal-ct-s-dr-indianapolis-in/66zp4xr/,66zp4xr,46202,1809,1,1.0,992.0,83,55,1809,39.77746,-86.16637,The Canal
+https://www.apartments.com/5810-long-lake-ln-indianapolis-in/2z04gw8/,2z04gw8,46235,1705,3,2.0,1408.0,7,0,1705,39.86046,-85.96668,Indianapolis
+https://www.apartments.com/1722-arlene-dr-indianapolis-in/y2yqwfv/,y2yqwfv,46219,1580,3,2.0,1860.0,40,40,1580,39.79097,-86.03862,East Gate
+https://www.apartments.com/available-now-indianapolis-in/800k8w1/,800k8w1,46217,1795,3,2.5,2036.0,6,0,1795,39.66853,-86.20753,Southern Dunes
+https://www.apartments.com/4420-courtfield-dr-indianapolis-in/bmsrbfb/,bmsrbfb,46254,1670,3,2.5,1641.0,26,29,1670,39.83515,-86.25505,International Market Place
+https://www.apartments.com/1186-constitution-drive-indianapolis-in/0t6hwr1/,0t6hwr1,46234,1795,3,2.5,2104.0,32,0,1795,39.78088,-86.32847,Indianapolis
+https://www.apartments.com/beautiful-large-four-bedroom-in-warren-tow-indianapolis-in/vjwj37g/,vjwj37g,46203,2500,4,2.5,2474.0,6,0,2500,39.72511,-86.06206,Indianapolis
+https://www.apartments.com/926-w-32nd-st-indianapolis-in/2jwl87b/,2jwl87b,46208,900,3,2.0,1050.0,22,39,900,39.81328,-86.17647,Crown Hill
+https://www.apartments.com/2323-shoemaker-court-indianapolis-in/e9m5elm/,e9m5elm,46229,1495,3,2.0,1212.0,1,0,1495,39.80184,-85.96486,East Warren
+https://www.apartments.com/11402-carly-way-indianapolis-in/57b30kn/,57b30kn,46235,1825,3,2.0,2140.0,12,0,1825,39.8214,-85.96436,Far Eastside
+https://www.apartments.com/4065-aspen-way-indianapolis-in/8y3xkd0/,8y3xkd0,46226,1125,3,1.0,864.0,42,34,1125,39.83142,-86.01994,Far Eastside
+https://www.apartments.com/1204-n-dearborn-st-indianapolis-in/6vb4p4t/,6vb4p4t,46201,1900,5,2.0,2800.0,65,38,1900,39.78364,-86.11144,Near Eastside
+https://www.apartments.com/5319-rocky-mountain-dr-indianapolis-in/312fc3f/,312fc3f,46237,1750,3,2.0,1390.0,19,0,1750,39.69042,-86.05699,Galludet
+https://www.apartments.com/2155-n-irwin-st-indianapolis-in/zbf50xx/,zbf50xx,46219,1000,2,1.0,1000.0,37,34,1000,39.79776,-86.05227,Eastside
+https://www.apartments.com/5012-lincoln-rd-indianapolis-in/nwgqsfm/,nwgqsfm,46228,2010,3,1.0,2688.0,1,0,2010,39.84451,-86.21698,Snacks Guion Creek
+https://www.apartments.com/2268-raymond-park-drive-indianapolis-in/nds5d7m/,nds5d7m,46239,1695,4,2.5,2016.0,18,0,1695,39.73894,-86.02494,Raymond Park
+https://www.apartments.com/8446-hague-rd-indianapolis-in/2198w0b/,2198w0b,46256,1600,3,2.0,1020.0,25,29,1600,39.91026,-86.03342,I-69 Fall Creek
+https://www.apartments.com/335-w-9th-st-indianapolis-in/wsx9q6l/,wsx9q6l,46202,1695,0,1.0,543.0,82,59,1695,39.77914,-86.16437,Circle City
+https://www.apartments.com/8142-whitaker-valley-boulevard-indianapolis-in/7q5jcfy/,7q5jcfy,46237,1595,3,2.0,1263.0,17,21,1595,39.64835,-86.0918,South Perry
+https://www.apartments.com/8608-skyway-dr-indianapolis-in/qr96hvw/,qr96hvw,46219,1300,3,2.0,1342.0,43,29,1300,39.79632,-86.01671,East Warren
+https://www.apartments.com/3261-n-college-ave-indianapolis-in-unit-3261/9n5lpm6/,9n5lpm6,46205,1200,2,1.0,975.0,41,49,1200,39.8156,-86.14462,Mapleton Fall Creek
+https://www.apartments.com/9236-delphi-ct-indianapolis-in/6r73k7r/,6r73k7r,46113,1830,3,2.5,2536.0,34,0,1830,39.63639,-86.32531,Indianapolis
+https://www.apartments.com/4054-n-park-ave-indianapolis-in/peww65t/,peww65t,46205,1210,3,1.0,1400.0,54,48,1210,39.82992,-86.14768,Meridian Kessler
+https://www.apartments.com/805-timber-creek-dr-indianapolis-in/t0xekm9/,t0xekm9,46239,2085,4,2.0,2424.0,7,0,2085,39.75891,-85.97447,Southeast Warren
+https://www.apartments.com/large-wooded-lot-in-carmel-clay-schools-indianapolis-in/gx92s7y/,gx92s7y,46290,2395,3,2.0,2181.0,9,0,2395,39.92949,-86.169,Indianapolis
+https://www.apartments.com/2405-e-16th-st-indianapolis-in/l4h3scf/,l4h3scf,46201,875,2,1.0,1084.0,51,31,875,39.7878,-86.12098,Near Eastside
+https://www.apartments.com/3-br-1-bath-house-3626-n-hartman-dr-indianapolis-in/rtvcy33/,rtvcy33,46226,995,3,1.0,923.0,35,35,995,39.82136,-86.0392,Arlington Woods
+https://www.apartments.com/1933-southernwood-ln-indianapolis-in/tzjghyb/,tzjghyb,46231,1998,4,2.0,3838.0,4,28,1998,39.73778,-86.32556,Chapel Hill Ben Davis
+https://www.apartments.com/gorgeous-4-bedroom-ranch-home-indianapolis-in/l28rgte/,l28rgte,46235,1660,4,2.0,1862.0,38,35,1660,39.82953,-85.98691,Far Eastside
+https://www.apartments.com/5-br-2-bath-house-2430-brookside-avenue-indianapolis-in/bzmbvfb/,bzmbvfb,46218,1295,5,2.0,2576.0,34,32,1295,39.79133,-86.1205,Near Eastside
+https://www.apartments.com/830-n-denny-st-indianapolis-in/7bv0ksy/,7bv0ksy,46201,750,2,1.0,1920.0,56,0,750,39.77853,-86.1002,Near Eastside
+https://www.apartments.com/10626-inspiration-dr-indianapolis-in/f8t81hs/,f8t81hs,46259,2200,3,3.0,2687.0,5,0,2200,39.64859,-85.97782,South Franklin
+https://www.apartments.com/6346-creekshore-lane-indianapolis-in/sjqt9v7/,sjqt9v7,46268,1850,4,2.5,1926.0,7,21,1850,39.87321,-86.21647,Augusta
+https://www.apartments.com/942-fayette-st-indianapolis-in/lw4gh3f/,lw4gh3f,46202,2450,3,3.0,2000.0,79,54,2450,39.78069,-86.1673,The Canal
+https://www.apartments.com/8249-amarillo-drive-indianapolis-in/ek1ft3q/,ek1ft3q,46237,1595,3,2.0,1410.0,9,0,1595,39.64748,-86.05803,South Franklin
+https://www.apartments.com/3633-laurel-cherry-ln-indianapolis-in/e4c2gfq/,e4c2gfq,46239,1920,3,2.5,2032.0,23,0,1920,39.7155,-86.02361,Five Points
+https://www.apartments.com/1028-s-randolph-st-indianapolis-in/n1d941m/,n1d941m,46203,1450,3,1.5,1300.0,55,36,1450,39.75339,-86.1284,Near Southeast
+https://www.apartments.com/3214-newton-ave-indianapolis-in/mz1m8el/,mz1m8el,46201,950,2,1.0,1720.0,42,37,950,39.76519,-86.11005,Near Southeast
+https://www.apartments.com/nola-court-indianapolis-in/f75phcv/,f75phcv,46205,629,1,1.0,700.0,-,-,629,39.83837,-86.13672,Fairgrounds
+https://www.apartments.com/9409-granville-pl-indianapolis-in/31mwscd/,31mwscd,46229,1400,3,2.0,1120.0,46,27,1400,39.79603,-86.00133,East Warren
+https://www.apartments.com/8652-belle-union-pl-indianapolis-in/7vzdeyx/,7vzdeyx,46113,1670,3,2.5,2328.0,13,0,1670,39.63867,-86.31396,Indianapolis
+https://www.apartments.com/3-br-1-bath-house-1556-nelson-ave-indianapolis-in/sejvrb5/,sejvrb5,46203,1200,3,1.0,1255.0,44,38,1200,39.72869,-86.13251,Near Southeast
+https://www.apartments.com/2734-schofield-ave-indianapolis-in/fzrbmyv/,fzrbmyv,46218,1115,3,1.0,1004.0,31,35,1115,39.80623,-86.13015,Martindale-Brightwood
+https://www.apartments.com/396-s-audubon-rd-indianapolis-in/vx4wnrd/,vx4wnrd,46219,800,2,1.0,1408.0,46,28,800,39.7623,-86.07054,Irvington
+https://www.apartments.com/1844-venona-dr-indianapolis-in/9866lw4/,9866lw4,46234,1745,3,2.0,1919.0,2,0,1745,39.78968,-86.32215,Chapel Hill Ben Davis
+https://www.apartments.com/4418-primrose-ave-indianapolis-in/kvse798/,kvse798,46205,1400,4,2.0,1632.0,30,37,1400,39.83753,-86.1328,Fairgrounds
+https://www.apartments.com/3420-southwest-dr-indianapolis-in/sjh3z97/,sjh3z97,46241,1635,4,1.0,1688.0,56,23,1635,39.71393,-86.24199,Mars Hill
+https://www.apartments.com/6338-perry-pines-ct-indianapolis-in/6876j5t/,6876j5t,46237,1425,3,2.0,1130.0,12,14,1425,39.67462,-86.09875,South Emerson
+https://www.apartments.com/4401-eagle-creek-pkwy-indianapolis-in/9n0y4r7/,9n0y4r7,46254,1550,1,1.0,763.0,28,32,1550,39.83439,-86.2864,Indianapolis
+https://www.apartments.com/7931-puckett-ln-indianapolis-in/fn73dqs/,fn73dqs,46113,1720,3,2.5,2430.0,2,0,1720,39.64762,-86.31247,Indianapolis
+https://www.apartments.com/7109-carrie-dr-indianapolis-in/fg7yrvr/,fg7yrvr,46237,1445,3,2.0,1375.0,1,0,1445,39.66479,-86.05889,South Franklin
+https://www.apartments.com/outstanding-4-bedroom-indianapolis-in/5s49gmq/,5s49gmq,46268,1985,4,2.5,1648.0,9,23,1985,39.87518,-86.21625,Augusta
+https://www.apartments.com/3463-n-capitol-ave-indianapolis-in/fkzyw3r/,fkzyw3r,46208,795,1,1.0,1556.0,57,47,795,39.81908,-86.16119,Crown Hill
+https://www.apartments.com/3-br-2-bath-house-328-n-post-rd-indianapolis-in/wy1b7fj/,wy1b7fj,46219,1595,3,2.0,2980.0,39,39,1595,39.77751,-86.00968,East Warren
+https://www.apartments.com/350-n-meridian-st-indianapolis-in-unit-a304/ettqy7p/,ettqy7p,46204,2300,2,2.0,1365.0,96,67,2300,39.77246,-86.15831,North Meridian
+https://www.apartments.com/1247-eustis-dr-indianapolis-in/94yhry4/,94yhry4,46229,1800,4,1.5,2800.0,16,37,1500,39.78606,-85.99704,East Warren
+https://www.apartments.com/2-br-1-bath-house-2519-s-mcclure-st-indianapolis-in/2n9rchc/,2n9rchc,46241,1100,2,1.0,625.0,23,23,1100,39.72902,-86.22605,Mars Hill
+https://www.apartments.com/10812-cedar-pine-drive-indianapolis-in/qh5x7qw/,qh5x7qw,46235,1550,3,2.0,1030.0,28,23,1550,39.82358,-85.97516,Far Eastside
+https://www.apartments.com/1636-n-rural-st-indianapolis-in/tj48m08/,tj48m08,46218,884,3,1.0,1064.0,51,32,884,39.78946,-86.11676,Near Eastside
+https://www.apartments.com/6667-e-17th-st-indianapolis-in/233002c/,233002c,46219,1415,3,2.0,1440.0,12,39,1415,39.79172,-86.05286,Eastside
+https://www.apartments.com/4-br-3-bath-house-4108-luxembourg-circl-indianapolis-in/me33qlj/,me33qlj,46228,1995,4,3.0,1800.0,13,28,1995,39.8294,-86.22425,Snacks Guion Creek
+https://www.apartments.com/3429-payton-ave-indianapolis-in/qmtptww/,qmtptww,46226,1250,3,2.0,1216.0,16,24,1250,39.81963,-86.03177,Arlington Woods
+https://www.apartments.com/5504-n-college-ave-indianapolis-in/dhz0fjk/,dhz0fjk,46220,1500,3,1.0,1551.0,76,39,1500,39.85281,-86.14618,Meridian Kessler
+https://www.apartments.com/3-br-15-bath-house-2943-s-pasadena-st-indianapolis-in/jwrl4y4/,jwrl4y4,46203,1550,3,1.5,1108.0,7,0,1550,39.72513,-86.05234,Indianapolis
+https://www.apartments.com/8421-del-prado-ct-indianapolis-in-unit-8421/61nlytv/,61nlytv,46227,850,2,1.0,980.0,54,30,1800,39.64425,-86.11655,South Perry
+https://www.apartments.com/3-br-15-bath-house-644-n-parker-ave-indianapolis-in/9edfey7/,9edfey7,46201,1040,3,1.5,1400.0,62,38,1040,39.77751,-86.11446,Near Eastside
+https://www.apartments.com/home-for-rent-indianapolis-in/8kphrb0/,8kphrb0,46235,1810,4,2.5,1576.0,8,0,1810,39.8294,-85.96046,Far Eastside
+https://www.apartments.com/1306-woodlawn-ave-indianapolis-in/lngfwgd/,lngfwgd,46203,1250,1,1.0,720.0,78,41,1250,39.75395,-86.13656,Fountain Square
+https://www.apartments.com/10941-minuteman-ct-indianapolis-in/p71r7st/,p71r7st,46234,1860,3,2.0,1260.0,29,0,1860,39.78278,-86.32742,Indianapolis
+https://www.apartments.com/3817-carrollton-avenue-indianapolis-in/1mykh27/,1mykh27,46205,1010,3,1.0,1500.0,57,48,1010,39.82567,-86.14329,Fairgrounds
+https://www.apartments.com/11903-e-welland-st-indianapolis-in/ster335/,ster335,46229,775,0,1.0,650.0,53,0,775,39.77847,-85.95552,Cumberland
+https://www.apartments.com/6917-devinney-lane-indianapolis-in/xs95qlp/,xs95qlp,46221,1750,4,2.5,1895.0,1,0,1750,39.66378,-86.25584,Valley Mills
+https://www.apartments.com/4250-braemar-dr-indianapolis-in/kwc73b8/,kwc73b8,46254,1775,3,2.0,1419.0,38,34,1775,39.83167,-86.28525,Eagle Creek
+https://www.apartments.com/5249-montavia-lane-indianapolis-in/bd45neb/,bd45neb,46239,1650,3,2.0,1371.0,9,0,1650,39.69147,-86.02928,Galludet
+https://www.apartments.com/8241-crosser-dr-indianapolis-in/qrb40fz/,qrb40fz,46237,1725,3,2.0,1664.0,4,0,1725,39.64777,-86.05452,South Franklin
+https://www.apartments.com/3-br-15-bath-house-1416-e-gimber-st-indianapolis-in/hwtkt32/,hwtkt32,46203,1350,3,1.5,1100.0,55,38,1350,39.72782,-86.13596,Garfield Park
+https://www.apartments.com/2837-north-delaware-street-indianapolis-in/tqklc78/,tqklc78,46205,1110,3,1.0,1400.0,55,52,1110,39.80772,-86.15304,Mapleton Fall Creek
+https://www.apartments.com/5629-hyacinth-way-indianapolis-in/r47rew1/,r47rew1,46254,1395,3,2.0,1063.0,35,25,1395,39.85448,-86.24561,Snacks Guion Creek
+https://www.apartments.com/fantastic-3bd-1ba-home-let-yourself-in-indianapolis-in/7cfwrdx/,7cfwrdx,46222,1195,3,1.0,842.0,58,32,1195,39.79739,-86.2138,Eagledale
+https://www.apartments.com/1705-randall-rd-indianapolis-in/h406nw3/,h406nw3,46240,1685,3,1.0,1135.0,31,22,1685,39.89055,-86.13098,Ravenswood
+https://www.apartments.com/1037-n-concord-st-indianapolis-in/y7k2c1v/,y7k2c1v,46222,895,2,1.0,950.0,53,37,895,39.78172,-86.21034,Near Westside Indianapolis
+https://www.apartments.com/920-n-alabama-st-indianapolis-in/1br13f7/,1br13f7,46202,550,1,1.0,550.0,84,58,500,39.77983,-86.15246,St Joseph
+https://www.apartments.com/3-br-1-bath-house-1660-centennial-avenue-indianapolis-in/lvstw0e/,lvstw0e,46222,925,3,1.0,988.0,62,28,925,39.79004,-86.21393,Eagledale
+https://www.apartments.com/southside-spacious-single-family-two-bedroom-indianapolis-in/4ke2f3h/,4ke2f3h,46203,850,3,1.0,689.0,25,37,850,39.72431,-86.12922,Near Southeast
+https://www.apartments.com/6419-greenspire-place-indianapolis-in/0mvqp30/,0mvqp30,46221,2195,4,2.5,3308.0,11,14,2195,39.67984,-86.27166,Valley Mills
+https://www.apartments.com/5125-gringo-dr-indianapolis-in/3nfdbrf/,3nfdbrf,46237,1450,3,1.0,910.0,42,27,1450,39.69242,-86.07028,South Emerson
+https://www.apartments.com/8021-bach-dr-indianapolis-in/6zcs87s/,6zcs87s,46239,1610,3,2.5,1425.0,3,0,1610,39.72594,-86.02489,Five Points
+https://www.apartments.com/4613-falcon-run-way-indianapolis-in/1kb9k07/,1kb9k07,46254,1350,2,2.5,1295.0,33,29,1350,39.83874,-86.259,Northwest High School
+https://www.apartments.com/9535-benchmark-dr-indianapolis-in/0lgzws1/,0lgzws1,46240,1717,1,1.0,775.0,32,18,1717,39.92518,-86.13795,Nora Far Northside
+https://www.apartments.com/now-showing-this-1-bedroom-1-bath-located-indianapolis-in/0tzlxh3/,0tzlxh3,46201,625,1,1.0,500.0,58,39,625,39.77821,-86.12366,Near Eastside
+https://www.apartments.com/3-br-15-bath-house-5249-yucatan-dr-indianapolis-in/x292wkp/,x292wkp,46237,1300,3,1.5,1064.0,51,32,1300,39.691,-86.07769,South Emerson
+https://www.apartments.com/618-n-hamilton-ave-indianapolis-in/rtm6jq1/,rtm6jq1,46201,1000,2,1.0,1300.0,51,39,1000,39.77695,-86.12512,Near Eastside
+https://www.apartments.com/3-br-1-bath-house-3945-n-ridgeview-dr-indianapolis-in/lydgzge/,lydgzge,46226,1350,3,1.0,1176.0,25,38,1350,39.8292,-86.05711,Devington
+https://www.apartments.com/4327-autumn-crest-ct-indianapolis-in/qqht4ew/,qqht4ew,46268,1695,3,2.5,1886.0,21,24,1695,39.8854,-86.23439,Augusta
+https://www.apartments.com/1209-n-tuxedo-st-indianapolis-in/707t8sw/,707t8sw,46201,1650,3,1.5,2200.0,52,37,1650,39.7839,-86.10799,Near Eastside
+https://www.apartments.com/2329-shoemaker-court-indianapolis-in/n1tdw2p/,n1tdw2p,46229,1695,3,2.0,2184.0,1,0,1695,39.80198,-85.96484,East Warren
+https://www.apartments.com/3833-libra-ln-indianapolis-in/xkph80p/,xkph80p,46235,1550,3,2.0,1200.0,24,0,1550,39.82759,-85.96934,Far Eastside
+https://www.apartments.com/available-now-indianapolis-in/mwykl6j/,mwykl6j,46229,1570,3,2.0,1120.0,52,0,1570,39.77872,-85.96329,Cumberland
+https://www.apartments.com/5718-ensley-ct-indianapolis-in/6dtgxer/,6dtgxer,46254,1775,3,2.5,1886.0,47,25,1775,39.8557,-86.23825,Snacks Guion Creek
+https://www.apartments.com/camby-crossing-apartment-homes-camby-in/7bfjc2x/,7bfjc2x,46113,685,1,1.0,690.0,11,0,685,39.65615,-86.31062,Camby
+https://www.apartments.com/available-now-indianapolis-in/6eedbxt/,6eedbxt,46254,1720,3,2.0,1440.0,7,34,1720,39.83393,-86.26534,Northwest High School
+https://www.apartments.com/4011-village-trace-blvd-indianapolis-in/t80h92c/,t80h92c,46254,2430,3,2.5,1606.0,9,25,2430,39.83406,-86.22884,Snacks Guion Creek
+https://www.apartments.com/3-br-15-bath-house-2101-pennsylvania-s-indianapolis-in/t7tf6nc/,t7tf6nc,46202,1515,3,1.5,2200.0,70,54,1515,39.79512,-86.15576,Herron-Morton Place
+https://www.apartments.com/4322-n-edmondson-ave-indianapolis-in/qt5evyy/,qt5evyy,46226,1050,3,1.0,1000.0,28,32,1050,39.83585,-86.05152,Devington
+https://www.apartments.com/2434-n-illinois-st-indianapolis-in/djrmd9l/,djrmd9l,46208,2100,3,2.0,1610.0,64,51,2100,39.80128,-86.15936,Near Northside
+https://www.apartments.com/8506-westfield-blvd-indianapolis-in/8ddv5z3/,8ddv5z3,46240,2486,2,2.0,1020.0,59,30,2486,39.90971,-86.13433,North Central
+https://www.apartments.com/5375-clarendon-rd-indianapolis-in/5y680lp/,5y680lp,46208,1890,3,1.0,1356.0,19,0,1890,39.85023,-86.17118,Butler-Tarkington
+https://www.apartments.com/953-prospect-st-indianapolis-in/spg39f6/,spg39f6,46203,1395,1,1.0,750.0,88,41,1395,39.75187,-86.14162,Fountain Square
+https://www.apartments.com/10947-delphi-drive-camby-in/3e184yd/,3e184yd,46113,2095,4,2.5,3104.0,41,0,2095,39.63647,-86.32749,Camby
+https://www.apartments.com/willow-brook-indianapolis-in/syndj16/,syndj16,46205,900,1,1.0,700.0,76,30,900,39.84737,-86.12469,Fairgrounds
+https://www.apartments.com/3919-winthrop-ave-indianapolis-in/87m0g92/,87m0g92,46205,1700,2,1.0,1680.0,52,47,1700,39.82738,-86.14066,Fairgrounds
+https://www.apartments.com/1104-n-dearborn-st-indianapolis-in/wegs1ml/,wegs1ml,46201,850,2,1.0,1293.0,65,38,850,39.78276,-86.11143,Near Eastside
+https://www.apartments.com/726-n-denny-st-indpls-in-46201-indianapolis-in/9mx2gw7/,9mx2gw7,46201,750,1,1.0,784.0,51,35,750,39.77731,-86.09996,Near Eastside
+https://www.apartments.com/4211-stone-mill-dr-indianapolis-in/4kst73j/,4kst73j,46237,1805,3,2.5,1446.0,7,18,1805,39.68291,-86.09495,South Emerson
+https://www.apartments.com/2819-wortham-way-indianapolis-in/vd6jktd/,vd6jktd,46268,1795,3,2.0,1769.0,59,26,1795,39.88862,-86.20985,Crooked Creek
+https://www.apartments.com/available-now-indianapolis-in/m06re9j/,m06re9j,46221,1545,3,2.0,1270.0,6,0,1545,39.67931,-86.24926,Valley Mills
+https://www.apartments.com/6417-amber-valley-ln-indianapolis-in/9e1dkn6/,9e1dkn6,46237,1640,3,2.0,1491.0,9,0,1640,39.675,-86.04506,Galludet
+https://www.apartments.com/6534-jarvis-dr-indianapolis-in/e06qf9m/,e06qf9m,46237,1795,3,2.0,1560.0,2,0,1795,39.64267,-86.05306,South Franklin
+https://www.apartments.com/5837-ashcroft-dr-indianapolis-in/wsnjrtk/,wsnjrtk,46221,1575,3,2.0,1244.0,0,0,1575,39.65989,-86.26251,West Newton
+https://www.apartments.com/2426-e-northgate-st-indianapolis-in/z0h84gy/,z0h84gy,46220,2015,3,1.5,2668.0,59,33,2015,39.86091,-86.12082,Millersville
+https://www.apartments.com/2154-n-riley-ave-indianapolis-in/6gkqfyr/,6gkqfyr,46218,1525,3,1.0,1008.0,28,25,1825,39.79768,-86.08606,Near Eastside
+https://www.apartments.com/riverchase-apartments-indianapolis-in/slfy2v5/,slfy2v5,46214,998,1,1.0,708.0,18,0,998,39.80526,-86.28912,Key Meadows
+https://www.apartments.com/1910-lexington-ave-indianapolis-in/c1kdr9d/,c1kdr9d,46203,700,1,1.0,650.0,47,38,700,39.7563,-86.12801,Near Southeast
+https://www.apartments.com/7614-ardwell-ct-indianapolis-in/1cr00k5/,1cr00k5,46237,1810,3,2.5,1911.0,8,0,1810,39.65678,-86.04699,South Franklin
+https://www.apartments.com/2-br-1-bath-house-61-n-devon-ave-indianapolis-in/jngx2r5/,jngx2r5,46219,1150,2,1.0,900.0,40,34,1150,39.77533,-86.02086,East Warren
+https://www.apartments.com/7126-parklake-pl-indianapolis-in/k4ljt28/,k4ljt28,46217,1695,3,2.5,1582.0,19,0,1695,39.66142,-86.20379,Southern Dunes
+https://www.apartments.com/5040-harpers-ln-indianapolis-in/vhzj7ff/,vhzj7ff,46268,1660,3,2.0,1220.0,62,25,1660,39.87899,-86.24721,Snacks Guion Creek
+https://www.apartments.com/11424-long-lake-drive-indianapolis-in/d5tcfbk/,d5tcfbk,46235,1795,4,2.5,1992.0,4,0,1795,39.86309,-85.96436,Indianapolis
+https://www.apartments.com/3158-crestwell-drive-indianapolis-in/5g1v5gm/,5g1v5gm,46268,1995,3,2.5,2886.0,5,24,1995,39.87868,-86.21447,Augusta
+https://www.apartments.com/3-br-25-bath-house-10909-zimmerman-lane-indianapolis-in/dvmqt9l/,dvmqt9l,46231,1725,3,2.5,3074.0,3,0,1725,39.73963,-86.32825,Six Points
+https://www.apartments.com/4008-biscayne-rd-indianapolis-in/d75wz7l/,d75wz7l,46226,1095,3,1.0,936.0,48,35,1095,39.83016,-86.01359,Far Eastside
+https://www.apartments.com/2537-copper-hill-dr-indianapolis-in/fss0c7v/,fss0c7v,46239,1645,3,2.0,1390.0,6,0,1645,39.73334,-86.02608,Raymond Park
+https://www.apartments.com/wildwood-village-apartments-indianapolis-in/yqhtvrt/,yqhtvrt,46222,640,1,1.0,650.0,28,32,640,39.81867,-86.21979,Eagledale
+https://www.apartments.com/10764-lexington-drive-indianapolis-in/42eszvh/,42eszvh,46280,2495,3,2.5,2260.0,23,0,2495,39.94625,-86.13892,Indianapolis
+https://www.apartments.com/7202-tresa-drive-indianapolis-in/7eg8wly/,7eg8wly,46239,2195,4,2.5,3100.0,6,0,2195,39.69171,-86.04072,Galludet
+https://www.apartments.com/5369-dollar-forge-court-indianapolis-in/e7pm9pq/,e7pm9pq,46221,1650,3,2.5,1788.0,6,0,1650,39.68046,-86.2523,Valley Mills
+https://www.apartments.com/6917-wildwood-ct-indianapolis-in/hqlnmw2/,hqlnmw2,46268,1250,3,1.5,1248.0,53,25,1000,39.87963,-86.24187,Augusta
+https://www.apartments.com/van-rooy-downtown-indianapolis-in/ffsywws/,ffsywws,46202,1230,2,1.0,1037.0,77,52,200,39.78133,-86.14473,Chatham Arch
+https://www.apartments.com/2-br-1-bath-house-1005-n-pershing-ave-indianapolis-in/wkn3mgj/,wkn3mgj,46222,700,2,1.0,799.0,45,39,700,39.78093,-86.19908,Near Westside Indianapolis
+https://www.apartments.com/4381-village-parkway-6-2-bed-2-bath-con-indianapolis-in/n546njq/,n546njq,46254,999,2,2.0,993.0,23,30,999,39.83597,-86.28826,Indianapolis
+https://www.apartments.com/available-now-indianapolis-in/fvqmsqs/,fvqmsqs,46224,1420,3,2.0,1125.0,37,32,1420,39.81485,-86.24394,Eagledale
+https://www.apartments.com/fantastic-3bd-15ba-home-let-yourself-in-indianapolis-in/7rp9zex/,7rp9zex,46219,1295,3,1.5,1129.0,62,43,1295,39.78369,-86.0427,East Gate
+https://www.apartments.com/10343-kensil-st-indianapolis-in/c83nnzd/,c83nnzd,46236,1780,3,2.0,1745.0,14,0,1780,39.86569,-85.98426,Indianapolis
+https://www.apartments.com/3967-downes-dr-indianapolis-in/t62c268/,t62c268,46235,1050,3,1.0,950.0,25,35,1050,39.83049,-85.99604,Far Eastside
+https://www.apartments.com/available-now-indianapolis-in/03jr581/,03jr581,46217,1695,3,2.0,1551.0,53,0,1695,39.66508,-86.1761,Linden Wood
+https://www.apartments.com/7115-sun-ct-indianapolis-in/eye8jyq/,eye8jyq,46241,1830,3,2.5,1688.0,30,28,1830,39.75926,-86.28595,Chapel Hill Ben Davis
+https://www.apartments.com/3-br-2-bath-house-3920-owster-ln-indianapolis-in/f0j9s6v/,f0j9s6v,46237,1695,3,2.0,1272.0,11,23,1695,39.70972,-86.10128,University Heights
+https://www.apartments.com/addison-apartments-indianapolis-in/v3f2qcg/,v3f2qcg,46219,749,2,1.0,1000.0,45,34,200,39.79585,-86.04167,East Gate
+https://www.apartments.com/martindale-brightwood-4br-1ba-house-indianapolis-in/3054sse/,3054sse,46205,850,4,1.0,1467.0,17,44,850,39.81482,-86.13962,Martindale-Brightwood
+https://www.apartments.com/725-lynn-st-indianapolis-in/kf36nxb/,kf36nxb,46222,750,1,1.0,600.0,39,38,750,39.77747,-86.19457,Near Westside Indianapolis
+https://www.apartments.com/3027-adams-st-indianapolis-in/2mtcgd8/,2mtcgd8,46218,925,2,1.0,875.0,34,35,925,39.81155,-86.10938,Martindale-Brightwood
+https://www.apartments.com/abbey-apartments-affordable-senior-housing-indianapolis-in/x2rdk3p/,x2rdk3p,46221,778,1,1.0,535.0,33,22,652,39.70586,-86.24082,Mars Hill
+https://www.apartments.com/259-burke-ave-indianapolis-in/05stn13/,05stn13,46234,1495,3,1.0,912.0,28,29,1495,39.76918,-86.31536,Chapel Hill Ben Davis
+https://www.apartments.com/6121-jester-ct-indianapolis-in/vm0l3rd/,vm0l3rd,46254,1670,3,2.0,1478.0,10,21,1670,39.86597,-86.26397,Snacks Guion Creek
+https://www.apartments.com/7864-fox-glen-drive-indianapolis-in/0ltygw1/,0ltygw1,46239,1695,3,2.0,1319.0,6,0,1695,39.73372,-86.0277,Raymond Park
+https://www.apartments.com/1654-iowa-st-indianapolis-in/381drkd/,381drkd,46203,1300,2,1.0,800.0,-,-,1300,39.74446,-86.13066,Near Southeast
+https://www.apartments.com/924-n-california-st-indianapolis-in/yf54cdv/,yf54cdv,46202,2250,4,3.5,2000.0,78,53,2250,39.78011,-86.1697,Circle City
+https://www.apartments.com/2241-villa-ave-indianapolis-in/j47ry97/,j47ry97,46203,1025,2,1.0,850.0,41,32,1025,39.73652,-86.12486,Near Southeast
+https://www.apartments.com/815-olive-st-indianapolis-in/6c1tjst/,6c1tjst,46203,1500,2,1.0,880.0,77,42,1000,39.75561,-86.13767,Fountain Square
+https://www.apartments.com/3448-n-leland-ave-indianapolis-in/vdw89tf/,vdw89tf,46218,1075,3,1.0,900.0,46,36,1075,39.82005,-86.08238,Arlington Woods
+https://www.apartments.com/3-br-1-bath-house-3-bedroom-near-butler-indianapolis-in/rx007s0/,rx007s0,46208,1250,3,1.0,864.0,-,-,1250,39.82975,-86.16914,Butler-Tarkington
+https://www.apartments.com/11036-sedlak-ln-indianapolis-in/j68ybv5/,j68ybv5,46229,1350,3,1.5,1362.0,13,0,1350,39.7887,-85.96988,East Warren
+https://www.apartments.com/2060-n-delaware-st-indianapolis-in/wd6fvkh/,wd6fvkh,46202,879,2,1.0,750.0,71,53,879,39.79549,-86.15418,Herron-Morton Place
+https://www.apartments.com/3038-ralston-ave-indianapolis-in/7wmct9x/,7wmct9x,46218,1100,3,1.0,1000.0,21,36,1100,39.81184,-86.13155,Martindale-Brightwood
+https://www.apartments.com/available-now-indianapolis-in/6rrlb6v/,6rrlb6v,46234,1845,4,2.0,1988.0,33,29,1845,39.76939,-86.3211,Chapel Hill Ben Davis
+https://www.apartments.com/9535-benchmark-dr-indianapolis-in/nzdwdsp/,nzdwdsp,46240,1604,1,1.0,655.0,32,18,1604,39.92518,-86.13795,Nora Far Northside
+https://www.apartments.com/1-br-1-bath-house-2049-ruckle-st-unit-a-indianapolis-in/k47cv48/,k47cv48,46202,1195,1,1.0,900.0,69,51,1195,39.79534,-86.14798,Martindale-Brightwood
+https://www.apartments.com/124-n-denny-st-indianapolis-in/15vkr96/,15vkr96,46201,965,2,1.0,1112.0,50,41,965,39.77165,-86.10012,Near Eastside
+https://www.apartments.com/6010-woodmill-drive-fishers-in/9lg6x36/,9lg6x36,46038,2095,3,2.5,1644.0,11,0,2095,39.9375,-86.06403,Fishers
+https://www.apartments.com/5601-skipping-stone-drive-indianapolis-in/n0tfdfn/,n0tfdfn,46237,2050,3,2.5,3283.0,5,0,2050,39.68681,-86.0483,Indianapolis
+https://www.apartments.com/434-canal-ct-s-dr-indianapolis-in/tgqm5j8/,tgqm5j8,46202,1733,1,1.0,1093.0,83,55,1733,39.77746,-86.16637,The Canal
+https://www.apartments.com/2-br-1-bath-house-2102-gent-ave-indianapolis-in/1pyhsx4/,1pyhsx4,46202,1150,2,1.0,960.0,24,33,1150,39.79558,-86.18308,Near NW Riverside
+https://www.apartments.com/available-now-indianapolis-in/kvgsfkc/,kvgsfkc,46234,1695,4,2.0,1984.0,24,30,1695,39.77041,-86.32393,Chapel Hill Ben Davis
+https://www.apartments.com/950-e-64th-st-indianapolis-in/h3b2sj2/,h3b2sj2,46220,2353,1,1.5,784.0,83,39,2353,39.87259,-86.14261,Broad Ripple
+https://www.apartments.com/available-now-indianapolis-in/bpxvfj9/,bpxvfj9,46229,1525,3,2.0,1717.0,27,33,1525,39.79029,-85.99272,East Warren
+https://www.apartments.com/10211-lone-wolf-dr-indianapolis-in/ddc6rzl/,ddc6rzl,46235,1400,3,1.0,1092.0,4,32,1400,39.8397,-85.98735,Far Eastside
+https://www.apartments.com/11541-glenn-abbey-ln-indianapolis-in/4q9se5h/,4q9se5h,46235,1750,3,2.0,1186.0,4,0,1750,39.85711,-85.96192,Indianapolis
+https://www.apartments.com/1450-n-college-ave-indianapolis-in/3bshtjf/,3bshtjf,46202,650,1,1.0,670.0,66,52,300,39.7864,-86.145,Circle City
+https://www.apartments.com/park-place-apartments-brand-new-remodeled-w-d-indianapolis-in/n4z7z8n/,n4z7z8n,46228,975,1,1.0,750.0,4,21,975,39.86574,-86.18237,Indianapolis
+https://www.apartments.com/3-br-1-bath-house-3912-aurora-st-indianapolis-in/xvz3ljn/,xvz3ljn,46227,1150,3,1.0,960.0,43,35,1150,39.70928,-86.12618,University Heights
+https://www.apartments.com/115-n-gladstone-ave-indianapolis-in/0plpf91/,0plpf91,46201,1095,3,1.5,1350.0,51,40,1095,39.771,-86.09611,Near Eastside
+https://www.apartments.com/2-br-1-bath-house-2605-guilford-avenue-indianapolis-in/0wj2sd2/,0wj2sd2,46205,1275,2,1.0,1168.0,40,46,1275,39.80449,-86.14166,Martindale-Brightwood
+https://www.apartments.com/3-br-15-bath-house-2338-union-st-indianapolis-in/hflscz0/,hflscz0,46225,1350,3,1.5,1100.0,44,31,1350,39.73387,-86.15784,Garfield Park
+https://www.apartments.com/945-n-keystone-ave-indianapolis-in/nttn31q/,nttn31q,46201,800,1,1.0,700.0,68,39,300,39.78109,-86.12107,Near Eastside
+https://www.apartments.com/5220-bahia-dr-indianapolis-in/lwp4f2d/,lwp4f2d,46237,1475,3,2.0,1198.0,43,26,1475,39.69139,-86.07002,South Emerson
+https://www.apartments.com/7432-red-bluff-dr-indianapolis-in/329nscf/,329nscf,46214,1775,3,2.0,2204.0,8,28,1775,39.81719,-86.29189,Eagle Creek
+https://www.apartments.com/fantastic-3bd-1ba-home-let-yourself-in-indianapolis-in/djc0t2h/,djc0t2h,46226,1235,3,1.0,1296.0,26,39,1235,39.8289,-86.06253,Devington
+https://www.apartments.com/2905-shady-oak-dr-indianapolis-in/tfeqgm9/,tfeqgm9,46229,1200,3,2.0,1284.0,7,27,1200,39.81027,-85.9863,Far Eastside
+https://www.apartments.com/4475-n-irwin-ave-indianapolis-in/l241b2e/,l241b2e,46226,1725,3,2.0,1726.0,35,30,1725,39.83854,-86.0531,Devington
+https://www.apartments.com/5331-brassie-drive-indianapolis-in/f2nw0mt/,f2nw0mt,46235,1695,3,2.5,1992.0,4,0,1695,39.8506,-85.96443,Indianapolis
+https://www.apartments.com/6016-dollar-hide-s-dr-indianapolis-in/r4tmwd3/,r4tmwd3,46221,1700,3,2.0,1870.0,2,0,1700,39.67869,-86.26586,Valley Mills
+https://www.apartments.com/2268-wynbrooke-blvd-indianapolis-in/2nlg7hb/,2nlg7hb,46234,1630,3,2.0,1184.0,6,0,1630,39.79719,-86.33404,Indianapolis
+https://www.apartments.com/the-elliott-at-college-park-indianapolis-in/wpztblk/,wpztblk,46268,1034,1,1.0,792.0,68,0,1034,39.91368,-86.2141,College Park
+https://www.apartments.com/3610-salem-st-indianapolis-in/xwgc61n/,xwgc61n,46208,1350,3,1.5,1400.0,70,48,1350,39.82141,-86.15833,Crown Hill
+https://www.apartments.com/335-w-9th-st-indianapolis-in/je1ld14/,je1ld14,46202,1695,0,1.0,543.0,82,59,1695,39.77914,-86.16437,Circle City
+https://www.apartments.com/available-now-indianapolis-in/g99rdbx/,g99rdbx,46235,2045,4,2.0,1872.0,5,0,2045,39.85007,-85.96367,Indianapolis
+https://www.apartments.com/8110-meadow-ln-indianapolis-in/7pz858y/,7pz858y,46227,2105,3,1.0,2424.0,44,28,2105,39.64778,-86.13419,South Perry
+https://www.apartments.com/4708-boulevard-place-indianapolis-in/jdmbfq7/,jdmbfq7,46208,1420,2,1.0,9991.0,48,30,1420,39.8413,-86.16447,Butler-Tarkington
+https://www.apartments.com/home-for-rent-indianapolis-in/telgfg9/,telgfg9,46227,1665,4,2.5,1680.0,39,30,1665,39.71302,-86.11458,University Heights
+https://www.apartments.com/stadium-lofts-flats-indianapolis-in/l2pgtrd/,l2pgtrd,46202,1330,2,2.0,850.0,28,34,400,39.78695,-86.18806,16 Tech
+https://www.apartments.com/2749-dawson-st-indianapolis-in/xfeb36p/,xfeb36p,46203,1250,3,1.0,912.0,18,36,1250,39.72704,-86.12643,Near Southeast
+https://www.apartments.com/3422-lauren-dr-indianapolis-in/esrl88p/,esrl88p,46235,1630,3,1.0,1264.0,2,0,1630,39.81993,-85.96328,Far Eastside
+https://www.apartments.com/3621-n-denny-st-indianapolis-in/hzm01k0/,hzm01k0,46218,1050,2,1.0,699.0,49,40,2400,39.82257,-86.10108,Forest Manor
+https://www.apartments.com/105-n-sherman-dr-indianapolis-in/z75sh0z/,z75sh0z,46201,1700,3,1.0,2200.0,50,41,1500,39.77124,-86.10202,Near Eastside
+https://www.apartments.com/3226-voigt-dr-indianapolis-in/k3tkeeb/,k3tkeeb,46224,1700,3,3.0,1788.0,31,37,1700,39.81352,-86.2652,Eagledale
+https://www.apartments.com/5435-armstrong-ct-indianapolis-in/vxdh4cg/,vxdh4cg,46237,1595,3,2.0,1506.0,30,27,1595,39.68846,-86.07088,South Emerson
+https://www.apartments.com/fletcher-place-terrace-indianapolis-in/69zxgwt/,69zxgwt,46203,1740,2,1.0,1031.0,83,61,500,39.76033,-86.14568,Downtown Indianapolis
+https://www.apartments.com/wonderful-butler-student-rental-close-to-c-indianapolis-in/n0ml7pq/,n0ml7pq,46208,1600,3,1.5,1643.0,45,28,1600,39.83509,-86.16655,Butler-Tarkington
+https://www.apartments.com/2027-broadway-st-indianapolis-in-unit-ch/errsq3q/,errsq3q,46202,975,1,1.0,825.0,59,49,975,39.7947,-86.14561,Martindale-Brightwood
+https://www.apartments.com/2247-peter-dr-indianapolis-in/2b5r289/,2b5r289,46229,1945,4,2.5,2588.0,2,0,1945,39.8006,-85.96711,East Warren
+https://www.apartments.com/8041-crackling-lane-indianapolis-in/22l88d8/,22l88d8,46259,2195,3,2.0,2631.0,12,0,2195,39.65181,-85.97491,South Franklin
+https://www.apartments.com/6067-bettcher-ave-indianapolis-in/w7009dk/,w7009dk,46228,1955,3,1.0,1924.0,21,25,1955,39.86586,-86.19448,Crooked Creek
+https://www.apartments.com/3-br-1-bath-house-4163-weaver-ave-indianapolis-in/lqphzdg/,lqphzdg,46227,1300,3,1.0,1032.0,58,40,1300,39.70466,-86.13773,University Heights
+https://www.apartments.com/monon-lofts-indianapolis-in/w9gn65j/,w9gn65j,46202,1450,2,2.0,1016.0,49,43,1450,39.79013,-86.13976,Martindale-Brightwood
+https://www.apartments.com/3937-n-butler-ave-indianapolis-in/bz5q5xc/,bz5q5xc,46226,1135,3,1.0,800.0,49,37,1135,39.82855,-86.07982,Devington
+https://www.apartments.com/335-w-9th-st-indianapolis-in/l1xcbrg/,l1xcbrg,46202,1801,0,1.0,543.0,82,59,1801,39.77914,-86.16437,Circle City
+https://www.apartments.com/5160-evanston-ave-indianapolis-in/f249wds/,f249wds,46205,1700,2,1.0,1660.0,77,30,1500,39.84684,-86.12689,Fairgrounds
+https://www.apartments.com/1002-pecan-ct-indianapolis-in/hby3061/,hby3061,46217,1765,3,2.0,2068.0,1,0,1765,39.65453,-86.1777,Linden Wood
+https://www.apartments.com/407-n-arsenal-ave-indianapolis-in/3tqxntf/,3tqxntf,46201,2025,3,3.0,1846.0,58,42,2025,39.77221,-86.13316,Holy Cross
+https://www.apartments.com/152-e-new-york-st-indianapolis-in/eq34gym/,eq34gym,46204,1634,0,1.0,603.0,98,68,1634,39.77128,-86.15477,Circle City
+https://www.apartments.com/128-e-palmer-st-indianapolis-in/yk7sj3s/,yk7sj3s,46225,599,0,1.0,500.0,49,35,599,39.74625,-86.15582,Near Southside
+https://www.apartments.com/one-somerset-apartments-indianapolis-in/9cstdm7/,9cstdm7,46227,1039,1,1.0,600.0,40,40,1039,39.71283,-86.12935,University Heights
+https://www.apartments.com/8532-sweet-birch-dr-indianapolis-in/b20r1x8/,b20r1x8,46239,1685,3,2.0,1319.0,3,0,1685,39.72016,-86.01595,Five Points
+https://www.apartments.com/1240-n-temple-ave-indianapolis-in/8recwe3/,8recwe3,46201,1500,3,1.5,1800.0,65,38,1500,39.78472,-86.11832,Near Eastside
+https://www.apartments.com/10025-hawkins-court-indianapolis-in/q5142tw/,q5142tw,46229,775,3,1.5,1600.0,45,27,775,39.79898,-85.98991,East Warren
+https://www.apartments.com/414-polaris-drive-indianapolis-in/3yj2c2e/,3yj2c2e,46241,1550,3,2.0,1038.0,26,27,1550,39.75913,-86.28498,Chapel Hill Ben Davis
+https://www.apartments.com/the-historic-mansion-row-apartments-indianapolis-in/45eljyh/,45eljyh,46222,1350,2,2.0,1100.0,6,35,1350,39.80229,-86.2043,Marian Cold Springs
+https://www.apartments.com/available-now-indianapolis-in/1kkrnb5/,1kkrnb5,46236,1625,3,2.0,1293.0,36,0,1625,39.8789,-85.94992,Indianapolis
+https://www.apartments.com/842-n-california-st-indianapolis-in/52zzyhp/,52zzyhp,46202,2100,3,2.5,1600.0,78,53,2100,39.77927,-86.16944,Circle City
+https://www.apartments.com/534-fisher-creek-drive-indianapolis-in/6nbq2ys/,6nbq2ys,46239,1520,3,2.0,1354.0,15,19,1520,39.76063,-86.03072,East Gate
+https://www.apartments.com/7508-gold-rush-dr-indianapolis-in/ffhnf4t/,ffhnf4t,46113,2065,4,2.5,2892.0,16,0,2065,39.65417,-86.31141,Indianapolis
+https://www.apartments.com/430-indiana-ave-indianapolis-in/xnvhneq/,xnvhneq,46202,2193,2,2.0,936.0,-,-,2193,39.77326,-86.16447,The Canal
+https://www.apartments.com/3221-priscilla-ave-indianapolis-in/1rr2jk5/,1rr2jk5,46218,1000,3,1.0,875.0,31,38,1000,39.81583,-86.06817,Arlington Woods
+https://www.apartments.com/7745-solana-dr-indianapolis-in/vy3m7jg/,vy3m7jg,46240,2046,1,1.0,808.0,14,22,2046,39.89702,-86.12034,Keystone
+https://www.apartments.com/804-aerostar-court-avon-in/vk6cmwg/,vk6cmwg,46123,1650,3,2.0,1230.0,5,0,1650,39.75194,-86.33952,Avon
+https://www.apartments.com/3-br-2-bath-house-6010-hayford-way-indianapolis-in/q10wxpw/,q10wxpw,46254,1725,3,2.0,2172.0,3,22,1725,39.84301,-86.26689,Northwest High School
+https://www.apartments.com/2635-lullwater-ln-indianapolis-in/zbpev0y/,zbpev0y,46229,1495,3,2.0,1150.0,1,0,1495,39.8069,-85.96091,Far Eastside
+https://www.apartments.com/charmimg-two-bedroom-bungalow-indianapolis-in/lm7rj5f/,lm7rj5f,46218,795,2,1.0,896.0,40,40,795,39.81706,-86.12471,Martindale-Brightwood
+https://www.apartments.com/8916-country-walk-dr-indianapolis-in/9hqg7z7/,9hqg7z7,46227,1825,3,2.0,1397.0,18,24,1825,39.63693,-86.10645,South Perry
+https://www.apartments.com/5248-bluff-view-dr-indianapolis-in/wckh9sk/,wckh9sk,46217,1495,3,2.0,1330.0,11,0,1495,39.68848,-86.18245,Sunshine Gardens
+https://www.apartments.com/available-now-indianapolis-in/p31v6pt/,p31v6pt,46229,1645,3,2.5,2471.0,1,0,1645,39.79482,-85.96582,East Warren
+https://www.apartments.com/hinge-indianapolis-in/nhvgr3n/,nhvgr3n,46203,1590,1,1.0,828.0,87,55,1590,39.757,-86.14566,Downtown Indianapolis
+https://www.apartments.com/3-br-25-bath-house-4933-aspen-crest-lane-indianapolis-in/gn4jb2y/,gn4jb2y,46254,1650,3,2.5,1350.0,4,23,1650,39.84267,-86.28048,Eagle Creek
+https://www.apartments.com/3421-n-leland-ave-indianapolis-in/h2cdzx3/,h2cdzx3,46218,1000,3,1.0,948.0,44,37,1000,39.81908,-86.08144,Arlington Woods
+https://www.apartments.com/3-br-2-bath-house-3109-e-saint-joseph-st-indianapolis-in/n25pm9p/,n25pm9p,46201,1095,3,2.0,1078.0,64,38,1095,39.78024,-86.11138,Near Eastside
+https://www.apartments.com/4717-eva-ln-indianapolis-in/dyc1zyh/,dyc1zyh,46227,1775,3,2.5,2052.0,20,23,1775,39.69709,-86.15607,Southdale
+https://www.apartments.com/615-n-tibbs-ave-indianapolis-in-unit-apt-d/t5vl048/,t5vl048,46222,655,1,1.0,400.0,44,36,655,39.77564,-86.21563,Near Westside Indianapolis
+https://www.apartments.com/2332-alabama-st-indianapolis-in/h25jns3/,h25jns3,46205,1950,3,2.0,2016.0,68,52,1950,39.80018,-86.15229,Fall Creek Place
+https://www.apartments.com/4248-n-college-ave-indianapolis-in/6sqmjev/,6sqmjev,46205,1600,3,1.5,1500.0,47,42,2000,39.83406,-86.14563,Meridian Kessler
+https://www.apartments.com/5339-traditions-dr-indianapolis-in/ps2gxdv/,ps2gxdv,46235,1325,3,2.0,1260.0,9,0,1325,39.85097,-85.98592,Indianapolis
+https://www.apartments.com/4948-potomac-square-pl-indianapolis-in-unit-4/ktkx2qb/,ktkx2qb,46268,1495,2,2.0,1300.0,23,25,1495,39.87431,-86.24529,Snacks Guion Creek
+https://www.apartments.com/10297-blue-sky-drive-avon-in/ldc18kg/,ldc18kg,46123,1795,3,2.5,1992.0,14,0,1795,39.75401,-86.33987,Avon
+https://www.apartments.com/10870-vanguard-lane-indianapolis-in/fbqbrps/,fbqbrps,46234,1595,3,2.0,1250.0,18,0,1595,39.78578,-86.32897,Indianapolis
+https://www.apartments.com/1524-n-colorado-ave-indianapolis-in/jnqrj56/,jnqrj56,46201,1050,3,1.0,936.0,49,33,1050,39.78813,-86.0961,Near Eastside
+https://www.apartments.com/9578-n-park-ave-indianapolis-in/qx782hy/,qx782hy,46240,1700,3,1.5,1722.0,37,20,1000,39.92622,-86.14955,Nora Far Northside
+https://www.apartments.com/nine-eighteen-indianapolis-in/5h13z5m/,5h13z5m,46202,2050,2,2.0,1268.0,84,57,2050,39.77935,-86.15173,Downtown Indianapolis
+https://www.apartments.com/3312-wallace-ave-indianapolis-in/6l6e2dt/,6l6e2dt,46218,965,2,1.0,928.0,24,37,965,39.8162,-86.08926,Martindale-Brightwood
+https://www.apartments.com/3-br-2-bath-house-6146-wildcat-drive-indianapolis-in/9r9lnm4/,9r9lnm4,46203,1375,3,2.0,1326.0,3,0,1375,39.72215,-86.06093,Indianapolis
+https://www.apartments.com/8110-cedar-creek-ct-indianapolis-in/qmg9xvx/,qmg9xvx,46268,1875,3,2.5,2068.0,11,28,1875,39.90203,-86.22844,Augusta
+https://www.apartments.com/lincolnshire-broad-ripple-indianapolis-in/08ct7h0/,08ct7h0,46220,849,1,1.0,525.0,92,39,849,39.86861,-86.14565,Broad Ripple
+https://www.apartments.com/3630-n-denny-st-indianapolis-in/vnv6pkf/,vnv6pkf,46218,1100,3,1.0,1204.0,50,41,1100,39.82297,-86.10179,Forest Manor
+https://www.apartments.com/2414-union-st-indianapolis-in/311tezf/,311tezf,46225,1250,2,1.0,720.0,44,31,1250,39.73322,-86.15794,Garfield Park
+https://www.apartments.com/8060-chesterhill-way-indianapolis-in/ydj42dt/,ydj42dt,46239,1495,3,2.0,1390.0,23,0,1495,39.74315,-86.02438,Raymond Park
+https://www.apartments.com/634-deer-trail-drive-indianapolis-in/c28m28d/,c28m28d,46217,1695,3,2.5,1568.0,10,0,1695,39.65373,-86.17116,Linden Wood
+https://www.apartments.com/8036-whistlewood-drive-indianapolis-in/k5nznz8/,k5nznz8,46239,1650,3,2.0,1319.0,23,0,1650,39.71465,-86.02416,Five Points
+https://www.apartments.com/8316-crosser-drive-indianapolis-in/zkdn7sx/,zkdn7sx,46237,1695,3,2.0,1565.0,6,0,1695,39.64709,-86.0551,South Franklin
+https://www.apartments.com/9148-centenary-lane-indianapolis-in/edmsz2m/,edmsz2m,46113,1595,3,2.5,2328.0,27,0,1595,39.64304,-86.32367,Indianapolis
+https://www.apartments.com/5617-sweet-river-dr-indianapolis-in/qsjwsmw/,qsjwsmw,46221,1775,3,2.5,1992.0,9,0,1775,39.6828,-86.25268,Valley Mills
+https://www.apartments.com/3504-e-10th-st-indianapolis-in/y7g7emv/,y7g7emv,46201,1550,3,1.0,2200.0,61,37,1550,39.78155,-86.10664,Near Eastside
+https://www.apartments.com/broad-ripple-flats-indianapolis-in/b0vncs9/,b0vncs9,46220,1164,2,1.0,850.0,81,39,1164,39.86436,-86.14656,Broad Ripple
+https://www.apartments.com/2839-hazelview-ln-indianapolis-in/y53y3et/,y53y3et,46268,1650,3,2.0,1200.0,18,25,1650,39.87178,-86.20963,Augusta
+https://www.apartments.com/8901-river-crossing-blvd-indianapolis-in/h8e7rp2/,h8e7rp2,46240,2334,2,2.0,1059.0,48,30,2334,39.91644,-86.10584,Keystone
+https://www.apartments.com/5105-pike-creek-lane-indianapolis-in/mm1y6nk/,mm1y6nk,46254,1795,3,2.5,1849.0,21,29,1795,39.84224,-86.24769,Snacks Guion Creek
+https://www.apartments.com/3-br-15-bath-house-3737-n-chester-ave-indianapolis-in/5wc4ejq/,5wc4ejq,46218,1250,3,1.5,1776.0,51,40,1250,39.82451,-86.09988,Forest Manor
+https://www.apartments.com/newly-remolded-spacious-two-bedroom-single-indianapolis-in/xlkpw3n/,xlkpw3n,46219,1100,2,1.0,836.0,42,29,1100,39.79625,-86.01264,East Warren
+https://www.apartments.com/10981-clear-spring-drive-camby-in/3h6w3kd/,3h6w3kd,46113,1695,3,2.5,1964.0,38,0,1695,39.63552,-86.32702,Camby
+https://www.apartments.com/2230-english-ave-indianapolis-in/2pfthh9/,2pfthh9,46201,1375,2,1.5,1728.0,52,36,1375,39.7599,-86.12454,Near Southeast
+https://www.apartments.com/2016-n-college-ave-indianapolis-in/xbxh3np/,xbxh3np,46202,2350,5,3.0,2000.0,59,49,2350,39.79438,-86.14509,Martindale-Brightwood
+https://www.apartments.com/11359-geist-bluff-ct-indianapolis-in/jnjccr7/,jnjccr7,46236,1920,3,2.0,1807.0,11,0,1920,39.8965,-85.96553,Indianapolis
+https://www.apartments.com/3-br-2-bath-house-538-buffalo-ridge-ct-indianapolis-in/hzmk1k2/,hzmk1k2,46227,1749,3,2.0,1406.0,11,21,1749,39.64046,-86.14796,Hill Valley
+https://www.apartments.com/11723-rossmore-drive-indianapolis-in/tqr9vh9/,tqr9vh9,46235,1595,3,2.0,1472.0,5,0,1595,39.84666,-85.95822,Indianapolis
+https://www.apartments.com/8405-wheatfield-dr-indianapolis-in/j3y5b74/,j3y5b74,46113,1925,4,2.5,2377.0,10,0,1925,39.64124,-86.30791,Indianapolis
+https://www.apartments.com/46-n-ritter-ave-indianapolis-in/48kt6vh/,48kt6vh,46219,1000,2,1.0,860.0,78,38,1000,39.77202,-86.07336,Irvington
+https://www.apartments.com/4249-fairview-ter-indianapolis-in/75q0kry/,75q0kry,46208,2400,5,2.0,1254.0,38,30,2400,39.83352,-86.17389,Butler-Tarkington
+https://www.apartments.com/17-n-randolph-st-indianapolis-in/9stbvn6/,9stbvn6,46201,1795,3,2.0,1822.0,53,39,1795,39.76804,-86.12805,Near Eastside
+https://www.apartments.com/wonderful-3-bedroom-indianapolis-in/ptc77zv/,ptc77zv,46217,1595,3,2.0,1494.0,13,0,1595,39.67417,-86.18343,Dakota Ridge
+https://www.apartments.com/harding-street-lofts-indianapolis-in/3cfj7gg/,3cfj7gg,46222,1456,2,2.0,725.0,33,39,400,39.76579,-86.18607,West Indianapolis
+https://www.apartments.com/4401-eagle-creek-pkwy-indianapolis-in/k4x5dq9/,k4x5dq9,46254,1614,2,2.0,1092.0,28,32,1614,39.83439,-86.2864,Indianapolis
+https://www.apartments.com/5828-long-ridge-pl-indianapolis-in/jgmxml6/,jgmxml6,46221,1600,3,2.0,1454.0,2,21,1600,39.6789,-86.28331,Valley Mills
+https://www.apartments.com/temple-lofts-indianapolis-in/9pfhd97/,9pfhd97,46202,1350,2,2.0,834.0,57,50,1350,39.784,-86.16886,Indianapolis
+https://www.apartments.com/5550-wood-hollow-dr-indianapolis-in/bv0vzmc/,bv0vzmc,46239,1660,3,2.0,1482.0,23,0,1660,39.68744,-86.02219,Galludet
+https://www.apartments.com/1413-e-washington-st-indianapolis-in/gt0ejfy/,gt0ejfy,46201,550,0,1.0,400.0,62,43,350,39.76675,-86.13481,Near Southeast
+https://www.apartments.com/now-offering-first-full-month-free-indianapolis-in/2jek48c/,2jek48c,46208,1595,3,1.5,1532.0,66,44,1595,39.82716,-86.16516,Butler-Tarkington
+https://www.apartments.com/4382-round-lake-bend-indianapolis-in/hzv1qr3/,hzv1qr3,46234,1950,4,2.5,2100.0,8,0,1950,39.82801,-86.33045,Indianapolis
+https://www.apartments.com/803-cameron-st-indianapolis-in/y266sws/,y266sws,46203,1400,3,1.0,1373.0,60,38,1400,39.72514,-86.14582,Garfield Park
+https://www.apartments.com/1916-windy-hill-lane-indianapolis-in/6rzkr1t/,6rzkr1t,46239,1595,3,2.0,1402.0,11,0,1595,39.74365,-86.03515,Raymond Park
+https://www.apartments.com/2358-shoemaker-court-indianapolis-in/d2kbl1h/,d2kbl1h,46229,1550,4,2.5,1664.0,1,0,1550,39.80275,-85.9655,East Warren
+https://www.apartments.com/4506-4508-e-16th-st-re-integrity-indianapolis-in/bphtgpc/,bphtgpc,46201,600,2,1.0,552.0,49,33,600,39.78906,-86.09306,Near Eastside
+https://www.apartments.com/926-n-california-st-indianapolis-in/rlt7dl3/,rlt7dl3,46202,2250,4,3.5,2000.0,78,53,2250,39.78015,-86.16958,Circle City
+https://www.apartments.com/9115-bainbridge-drive-camby-in/jp8nq55/,jp8nq55,46113,1595,3,2.5,2328.0,36,0,1595,39.63974,-86.32278,Camby
+https://www.apartments.com/near-eastside-4br-house-indianapolis-in/2kkgebb/,2kkgebb,46201,775,4,1.0,1794.0,48,36,775,39.78434,-86.10568,Near Eastside
+https://www.apartments.com/2115-ringgold-ave-indianapolis-in/dp42tdl/,dp42tdl,46203,800,1,1.0,852.0,72,38,800,39.73911,-86.14219,Garfield Park
+https://www.apartments.com/7753-danube-st-indianapolis-in/g5cp0ty/,g5cp0ty,46239,1575,4,2.0,1486.0,13,0,1575,39.72267,-86.02943,Five Points
+https://www.apartments.com/8403-gates-corner-dr-indianapolis-in/te922db/,te922db,46113,1940,4,3.0,3000.0,9,0,1940,39.64248,-86.3099,Indianapolis
+https://www.apartments.com/8851-springside-ln-e-indianapolis-in/6csyztr/,6csyztr,46260,2192,2,2.0,1150.0,67,35,2192,39.9148,-86.2009,St Vincent Greenbriar
+https://www.apartments.com/5822-southern-springs-lane-indianapolis-in/gg17ljw/,gg17ljw,46237,1695,3,2.0,1400.0,5,15,1695,39.64697,-86.067,South Franklin
+https://www.apartments.com/the-lakes-apartments-indianapolis-in/q6q8mgw/,q6q8mgw,46268,1171,1,1.0,750.0,73,34,1171,39.91497,-86.20407,College Park
+https://www.apartments.com/8317-becks-mill-ln-indianapolis-in/yv688jv/,yv688jv,46113,1805,3,2.5,2336.0,31,0,1805,39.64236,-86.32392,Indianapolis
+https://www.apartments.com/8825-browns-valley-ln-indianapolis-in/f79f1jv/,f79f1jv,46113,1790,3,2.5,2494.0,6,0,1790,39.63538,-86.31756,Indianapolis
+https://www.apartments.com/3121-e-michigan-st-indianapolis-in/5m4yr4q/,5m4yr4q,46201,575,1,1.0,650.0,52,41,575,39.7744,-86.11104,Near Eastside
+https://www.apartments.com/2027-broadway-st-indianapolis-in/l99r29g/,l99r29g,46202,2500,5,4.0,2700.0,59,49,2500,39.7947,-86.14561,Martindale-Brightwood
+https://www.apartments.com/2043-lohr-drive-indianapolis-in/n3clcfm/,n3clcfm,46214,1495,3,2.0,1245.0,14,20,1495,39.7933,-86.28036,Chapel Hill Ben Davis
+https://www.apartments.com/7248-eagle-bay-n-dr-indianapolis-in/7wtggfw/,7wtggfw,46254,2085,3,2.0,2102.0,26,31,2085,39.83286,-86.28895,Eagle Creek
+https://www.apartments.com/3-br-2-bath-house-714-north-tremont-st-indianapolis-in/ys1vylv/,ys1vylv,46222,1100,3,2.0,1430.0,54,36,1100,39.77708,-86.20143,Near Westside Indianapolis
+https://www.apartments.com/1245-n-gibson-ave-indianapolis-in/6efptes/,6efptes,46219,1745,3,1.5,2296.0,29,35,1745,39.78556,-86.01556,East Warren
+https://www.apartments.com/835-camp-st-indianapolis-in/4c4vlbj/,4c4vlbj,46202,1400,2,1.0,1000.0,78,52,1400,39.77903,-86.17001,Circle City
+https://www.apartments.com/the-historic-bauer-indianapolis-in/ser87c4/,ser87c4,46208,620,1,1.0,725.0,74,49,620,39.82304,-86.15747,Crown Hill
+https://www.apartments.com/450-massachusetts-ave-indianapolis-in-unit-201/mcgjntk/,mcgjntk,46204,1095,1,1.0,614.0,98,65,500,39.77354,-86.15162,Chatham Arch
+https://www.apartments.com/7745-solana-dr-indianapolis-in/pr42e1t/,pr42e1t,46240,2418,2,2.0,1102.0,14,22,2418,39.89702,-86.12034,Keystone
+https://www.apartments.com/11634-rosswood-blvd-indianapolis-in/wtnenxl/,wtnenxl,46229,1795,3,2.5,2122.0,0,0,1795,39.80141,-85.95809,East Warren
+https://www.apartments.com/3-br-1-bath-house-8524-georgiana-ln-indianapolis-in/796jkww/,796jkww,46226,1050,3,1.0,864.0,51,35,1050,39.83584,-86.01789,Far Eastside
+https://www.apartments.com/442-parkway-ave-indianapolis-in/ek8mt7q/,ek8mt7q,46225,2295,4,3.0,3100.0,75,40,2295,39.74926,-86.14994,Bates-Hendricks
+https://www.apartments.com/1629-hoefgen-street-indianapolis-in/hynbrv3/,hynbrv3,46203,1175,3,2.0,1000.0,38,37,1175,39.732,-86.13137,Near Southeast
+https://www.apartments.com/550-fletcher-ave-indianapolis-in/1jk9p55/,1jk9p55,46203,1249,2,1.5,1030.0,82,65,1249,39.76144,-86.14765,Fletcher Place
+https://www.apartments.com/8506-westfield-blvd-indianapolis-in/nxzxzyn/,nxzxzyn,46240,1855,1,1.0,788.0,59,30,1855,39.90971,-86.13433,North Central
+https://www.apartments.com/36-n-ewing-st-indianapolis-in/zv95hgx/,zv95hgx,46201,1700,2,1.0,1600.0,50,40,1700,39.77012,-86.10524,Near Eastside
+https://www.apartments.com/the-marott-apartments-indianapolis-in/cqv6bmf/,cqv6bmf,46208,1185,1,1.0,609.0,54,52,1185,39.80517,-86.15595,Mapleton Fall Creek
+https://www.apartments.com/waterfront-terrace-apartments-indianapolis-in/pr9m19s/,pr9m19s,46224,750,1,1.0,648.0,26,34,750,39.81831,-86.2466,Eagledale
+https://www.apartments.com/circle-city-apartments-indianapolis-in/xbcddnp/,xbcddnp,46202,860,0,1.0,376.0,62,57,860,39.78487,-86.15695,Near Northside
+https://www.apartments.com/cloverleaf-apartments-townhomes-indianapolis-in/11b7pf4/,11b7pf4,46241,549,1,1.0,586.0,43,33,549,39.75402,-86.26146,Garden City
+https://www.apartments.com/forest-ridge-indianapolis-in/52ygmmm/,52ygmmm,46260,931,1,1.0,790.0,4,28,931,39.89281,-86.2015,Crooked Creek
+https://www.apartments.com/chateau-de-ville-indianapolis-in/shng817/,shng817,46220,855,0,1.0,520.0,13,0,855,39.8526,-86.10157,Millersville
+https://www.apartments.com/greentree-apartments-indianapolis-in/zt52kcx/,zt52kcx,46227,579,1,1.0,571.0,57,28,579,39.65224,-86.11846,South Perry
+https://www.apartments.com/community-place-indianapolis-in/ds91f3k/,ds91f3k,46227,1075,2,1.0,767.0,38,26,1075,39.63769,-86.13717,South Perry
+https://www.apartments.com/avia-lofts-at-founders-road-indianapolis-in/deszx0j/,deszx0j,46268,805,0,1.0,480.0,59,32,805,39.91296,-86.2218,College Park
+https://www.apartments.com/sawmill-apartments-indianapolis-in/peg11lr/,peg11lr,46237,799,1,1.0,650.0,2,23,799,39.70174,-86.10543,South Emerson
+https://www.apartments.com/alpine-studios-indianapolis-in/0mdymh2/,0mdymh2,46221,745,0,1.0,372.0,24,20,745,39.69927,-86.26178,Valley Mills
+https://www.apartments.com/crooked-creek-indianapolis-in/2w29ek8/,2w29ek8,46268,899,1,1.0,700.0,26,30,899,39.90463,-86.22775,Augusta
+https://www.apartments.com/fountainhead-apartments-indianapolis-in/zc8hs9x/,zc8hs9x,46260,905,0,1.0,494.0,14,31,905,39.90189,-86.1915,St Vincent Greenbriar
+https://www.apartments.com/encore-55-boutique-apartments-indianapolis-in/4kxjcbl/,4kxjcbl,46250,1395,1,1.0,847.0,40,30,1395,39.89032,-86.05393,Devonshire
+https://www.apartments.com/pheasant-run-indianapolis-in/xwhrc8m/,xwhrc8m,46239,1090,1,1.0,706.0,28,15,250,39.75601,-86.02747,Raymond Park
+https://www.apartments.com/10-west-apartments-indianapolis-in/exff7em/,exff7em,46214,899,1,1.0,788.0,47,30,899,39.77758,-86.2995,Chapel Hill Ben Davis
+https://www.apartments.com/m-club-apartments-indianapolis-in/tvqshg8/,tvqshg8,46226,871,0,1.0,550.0,8,0,871,39.85914,-86.04565,Indianapolis
+https://www.apartments.com/pier-39-apartments-townhomes-indianapolis-in/e8l367m/,e8l367m,46214,925,1,1.0,740.0,31,32,925,39.82098,-86.28792,Bayhead Village
+https://www.apartments.com/residences-on-ronald-reagan-avon-in/z3sttzz/,z3sttzz,46123,1128,1,1.0,665.0,20,0,1128,39.7552,-86.33588,Avon
+https://www.apartments.com/waterside-at-castleton-indianapolis-in/c44rsgf/,c44rsgf,46256,955,1,1.0,650.0,35,34,955,39.90718,-86.04016,I-69 Fall Creek
+https://www.apartments.com/keeneland-crest-apartments-indianapolis-in/f7s4x3t/,f7s4x3t,46237,1200,1,1.0,830.0,13,20,1200,39.64775,-86.07163,South Franklin
+https://www.apartments.com/mariners-village-apartments-indianapolis-in/kkkbnt8/,kkkbnt8,46214,700,0,1.0,544.0,11,26,700,39.80982,-86.28557,Key Meadows
+https://www.apartments.com/roberts-school-flats-indianapolis-in/gvzs7ww/,gvzs7ww,46201,849,0,1.0,392.0,44,43,849,39.78059,-86.13234,Near Eastside
+https://www.apartments.com/willow-glen-east-indianapolis-in/0nme9y2/,0nme9y2,46229,700,1,1.0,649.0,20,23,700,39.80888,-85.99186,Far Eastside
+https://www.apartments.com/maple-court-indianapolis-in/mkh7pxk/,mkh7pxk,46205,609,1,1.0,560.0,60,50,609,39.81998,-86.15521,Mapleton Fall Creek
+https://www.apartments.com/summerwood-on-towne-line-apartments-indianapolis-in/8lwxpw3/,8lwxpw3,46268,1082,1,1.0,671.0,46,35,1082,39.909,-86.20508,Augusta
+https://www.apartments.com/waterfront-pointe-indianapolis-in/vgjx0nf/,vgjx0nf,46214,1050,1,1.0,722.0,16,26,1050,39.80898,-86.28207,Key Meadows
+https://www.apartments.com/serenity-manor-independent-living-senior-55-indianapolis-in/rh4lxt1/,rh4lxt1,46219,600,0,1.0,430.0,47,0,150,39.78583,-86.04774,Warren Park
+https://www.apartments.com/five-twenty-virginia-indianapolis-in/tf7y05c/,tf7y05c,46203,1069,1,1.0,650.0,80,60,1069,39.75937,-86.14698,Fletcher Place
+https://www.apartments.com/oaks-of-eagle-creek-indianapolis-in/f9pykwt/,f9pykwt,46254,825,1,1.0,649.0,3,17,825,39.84942,-86.28057,Eagle Creek
+https://www.apartments.com/aspen-chase-indianapolis-in/3fwd4ye/,3fwd4ye,46254,779,1,1.0,700.0,22,18,779,39.85682,-86.25394,Snacks Guion Creek
+https://www.apartments.com/sherman-village-indianapolis-in/r6c49f2/,r6c49f2,46237,700,1,1.0,720.0,8,22,300,39.69968,-86.10054,South Emerson
+https://www.apartments.com/the-bristol-camby-in/2cnx9k9/,2cnx9k9,46113,985,1,1.0,788.0,2,0,985,39.651,-86.31551,Camby
+https://www.apartments.com/la-joya-apartmemts-indianapolis-in/bqbdfk8/,bqbdfk8,46254,599,1,1.0,850.0,8,31,599,39.83684,-86.23683,Snacks Guion Creek
+https://www.apartments.com/double-creek-flats-plainfield-in/txwe7h8/,txwe7h8,46168,1300,1,1.0,855.0,10,0,1300,39.73095,-86.32867,Six Points
+https://www.apartments.com/the-george-indianapolis-in/xbfg8nm/,xbfg8nm,46254,745,1,1.0,650.0,47,25,500,39.85829,-86.23949,Snacks Guion Creek
+https://www.apartments.com/willow-glen-south-beech-grove-in/yspwdms/,yspwdms,46107,814,1,1.0,584.0,22,0,814,39.69633,-86.09569,South Emerson
+https://www.apartments.com/el-dorado-apartments-indianapolis-in/ykg55ts/,ykg55ts,46222,549,1,1.0,555.0,17,29,549,39.79731,-86.22038,Eagledale
+https://www.apartments.com/warren-harbor-apartments-indianapolis-in/xyq576q/,xyq576q,46229,750,1,1.0,725.0,43,27,750,39.79841,-86.00411,East Warren
+https://www.apartments.com/auburn-place-apartments-greenwood-in/mrhlqsh/,mrhlqsh,46142,852,1,1.0,612.0,69,0,852,39.62688,-86.12267,Southside Indianapolis
+https://www.apartments.com/waterford-place-apartments-indianapolis-in/z7qvldy/,z7qvldy,46227,895,1,1.0,650.0,37,23,300,39.64502,-86.14081,Hill Valley
+https://www.apartments.com/pebble-point-indianapolis-in/25d65cb/,25d65cb,46214,865,1,1.0,671.0,9,22,865,39.80953,-86.29266,Key Meadows
+https://www.apartments.com/lakes-of-windsor-indianapolis-in/qhe6kqz/,qhe6kqz,46237,1040,1,1.0,805.0,49,22,1040,39.66213,-86.0748,South Franklin
+https://www.apartments.com/fountain-parc-indianapolis-in/stmjg25/,stmjg25,46220,1150,1,1.0,787.0,39,23,1150,39.86907,-86.08718,Allisonville
+https://www.apartments.com/pangea-groves-indianapolis-in/7n3965x/,7n3965x,46205,663,0,1.0,407.0,67,37,663,39.84626,-86.13814,Fairgrounds
+https://www.apartments.com/summit-at-keystone-indianapolis-in/4k5tfcj/,4k5tfcj,46220,961,1,1.0,700.0,56,22,961,39.87796,-86.11965,Glendale
+https://www.apartments.com/river-road-apartments-indianapolis-in/bd3nqyb/,bd3nqyb,46240,720,1,1.0,470.0,14,18,720,39.92295,-86.09619,Keystone
+https://www.apartments.com/english-village-indianapolis-in/n1mpqgq/,n1mpqgq,46239,699,1,1.0,615.0,15,21,699,39.75945,-86.03487,East Gate
+https://www.apartments.com/townes-at-winthrop-indianapolis-in/gnqxshw/,gnqxshw,46220,2300,2,2.5,1800.0,88,38,2300,39.86745,-86.1411,Broad Ripple
+https://www.apartments.com/beech-tree-glen-apartments-beech-grove-in/p31f0ct/,p31f0ct,46107,987,2,1.0,900.0,48,0,987,39.70864,-86.08366,Beech Grove
+https://www.apartments.com/la-perla-apartments-indianapolis-in/njf4knq/,njf4knq,46224,599,1,1.0,695.0,47,34,599,39.81395,-86.25488,Eagledale
+https://www.apartments.com/buffalo-creek-apartments-indianapolis-in/9pcxtn7/,9pcxtn7,46227,1008,1,1.0,653.0,27,22,1008,39.63598,-86.14637,Hill Valley
+https://www.apartments.com/2936-oxford-ln-indianapolis-in/kbyxn58/,kbyxn58,46218,625,1,1.0,610.0,45,34,625,39.80417,-86.1151,Martindale-Brightwood
+https://www.apartments.com/island-club-indianapolis-in/92neyw5/,92neyw5,46214,1019,1,1.0,600.0,12,21,1019,39.81118,-86.29642,Key Meadows
+https://www.apartments.com/buckingham-balmoral-indianapolis-in/nsk3g2n/,nsk3g2n,46208,1045,0,1.0,600.0,42,51,300,39.81229,-86.15615,Mapleton Fall Creek
+https://www.apartments.com/windsor-court-indianapolis-in/t033keb/,t033keb,46227,573,1,1.0,470.0,62,29,573,39.6603,-86.12355,South Perry
+https://www.apartments.com/benjamin-court-indianapolis-in/b2m9y49/,b2m9y49,46216,765,1,1.0,685.0,41,0,765,39.86068,-86.00166,Indianapolis
+https://www.apartments.com/williamsburg-north-indianapolis-in/12583v4/,12583v4,46220,899,1,1.0,787.0,37,25,899,39.87014,-86.09238,Allisonville
+https://www.apartments.com/steeplechase-at-shiloh-crossing-avon-in/wg2q5dj/,wg2q5dj,46123,1215,1,1.0,676.0,48,0,1215,39.76668,-86.34127,Avon
+https://www.apartments.com/covered-bridge-apartments-indianapolis-in/pxtqp0v/,pxtqp0v,46268,660,1,1.0,704.0,42,25,660,39.87621,-86.2419,Augusta
+https://www.apartments.com/jade-north-apartments-indianapolis-in/900nq35/,900nq35,46220,755,0,1.0,620.0,76,39,755,39.87543,-86.14534,Broad Ripple
+https://www.apartments.com/stone-lake-indianapolis-in/xs5pjtm/,xs5pjtm,46227,693,1,1.0,637.0,30,27,693,39.70734,-86.11183,University Heights
+https://www.apartments.com/fishermans-village-indianapolis-in/tx0get8/,tx0get8,46214,854,0,1.0,545.0,7,24,854,39.8114,-86.29096,Key Meadows
+https://www.apartments.com/the-residences-on-56th-street-indianapolis-in/9ls8wv4/,9ls8wv4,46226,999,2,1.0,830.0,1,19,999,39.85997,-86.05181,Brendonwood
+https://www.apartments.com/canal-square-indianapolis-in/es6xb9n/,es6xb9n,46202,1095,1,1.0,484.0,82,58,1095,39.77224,-86.16547,The Canal
+https://www.apartments.com/tgm-avalon-lake-indianapolis-in/cybeetg/,cybeetg,46220,935,1,1.0,630.0,54,0,935,39.8791,-86.07113,Devonshire
+https://www.apartments.com/iron-works-at-keystone-indianapolis-in/ett7jnp/,ett7jnp,46240,1200,0,1.0,587.0,41,30,1200,39.91151,-86.11631,North Central
+https://www.apartments.com/sunrise-on-the-monon-carmel-in/65b75sv/,65b75sv,46280,1299,1,1.0,744.0,5,0,200,39.93158,-86.13058,Carmel
+https://www.apartments.com/serenity-park-apartments-indianapolis-in/vqss72e/,vqss72e,46235,624,1,1.0,596.0,46,35,624,39.82896,-86.0084,Far Eastside
+https://www.apartments.com/senate-manor-indianapolis-in/t6e6cb9/,t6e6cb9,46204,799,0,1.0,363.0,90,63,799,39.77541,-86.16272,Circle City
+https://www.apartments.com/park-view-at-beech-grove-indianapolis-in/15q2gr7/,15q2gr7,46203,663,1,1.0,738.0,31,0,663,39.71505,-86.07455,Indianapolis
+https://www.apartments.com/7-pointe-indianapolis-in/5538nvn/,5538nvn,46205,810,1,1.0,715.0,42,29,810,39.84378,-86.11561,Millersville
+https://www.apartments.com/pangea-riverside-indianapolis-in/jfcwe05/,jfcwe05,46222,1048,1,1.0,600.0,10,35,1048,39.80419,-86.20448,Marian Cold Springs
+https://www.apartments.com/devonshire-apartments-indianapolis-in/7mw91dx/,7mw91dx,46204,620,0,1.0,400.0,99,67,620,39.77318,-86.1528,Chatham Arch
+https://www.apartments.com/marabou-mills-indianapolis-in/01zxcw0/,01zxcw0,46214,699,0,1.0,288.0,6,25,300,39.8172,-86.29673,Eagle Creek
+https://www.apartments.com/82-flats-at-the-crossing-indianapolis-in/wqb0jel/,wqb0jel,46240,1239,1,1.0,730.0,56,28,1239,39.91134,-86.09907,Keystone
+https://www.apartments.com/5117-e-38th-st-indianapolis-in/r4fbfz3/,r4fbfz3,46218,1000,0,1.0,300.0,53,38,100,39.82511,-86.0829,Arlington Woods
+https://www.apartments.com/willowood-east-indianapolis-in/svfmsh4/,svfmsh4,46235,602,0,1.0,288.0,22,0,350,39.82499,-85.96774,Far Eastside
+https://www.apartments.com/lenox-apartments-indianapolis-in/qkrlqry/,qkrlqry,46226,850,1,1.0,800.0,13,0,850,39.85203,-86.04857,Brendonwood
+https://www.apartments.com/estates-at-crystal-bay-indianapolis-in/lphwkge/,lphwkge,46260,710,1,1.0,650.0,14,29,710,39.8818,-86.20108,Crooked Creek
+https://www.apartments.com/suites-of-irvington-indianapolis-in/7tlqqyy/,7tlqqyy,46219,450,0,1.0,305.0,76,37,450,39.77119,-86.06886,Irvington
+https://www.apartments.com/eagle-creek-court-indianapolis-in/8036fh3/,8036fh3,46224,552,1,1.0,457.0,59,0,552,39.7959,-86.26652,Indianapolis
+https://www.apartments.com/forte-indianapolis-in/rj1vxq0/,rj1vxq0,46203,990,0,1.0,400.0,87,40,990,39.75031,-86.14019,Downtown Indianapolis
+https://www.apartments.com/beech-meadow-apartments-beech-grove-in/1fekcr7/,1fekcr7,46107,895,1,1.0,750.0,41,0,895,39.71219,-86.07882,Indianapolis
+https://www.apartments.com/aspen-lakes-indianapolis-in/2hstxm9/,2hstxm9,46217,1015,1,1.0,767.0,31,0,200,39.66224,-86.19528,Glenns Valley
+https://www.apartments.com/2131-north-indianapolis-in/cs7hned/,cs7hned,46202,1175,1,1.0,730.0,68,53,500,39.79625,-86.15701,Near Northside
+https://www.apartments.com/indy-town-apartments-indianapolis-in/grrfwsx/,grrfwsx,46219,744,2,1.0,685.0,38,37,870,39.79652,-86.06184,Eastside
+https://www.apartments.com/south-haven-village-apartments-indianapolis-in/fs7exkr/,fs7exkr,46227,1223,1,1.0,797.0,47,30,1223,39.65318,-86.13174,South Perry
+https://www.apartments.com/annhurst-apartments-indianapolis-in/72zgngx/,72zgngx,46268,650,0,1.0,288.0,42,25,650,39.87537,-86.24278,Indianapolis
+https://www.apartments.com/stone-ridge-apartments-indianapolis-in/cf3g5yg/,cf3g5yg,46241,998,1,1.0,720.0,13,23,998,39.68599,-86.2857,Ameriplex
+https://www.apartments.com/broad-ripple-trails-indianapolis-in/3e4ddce/,3e4ddce,46220,775,0,1.0,400.0,66,36,775,39.84781,-86.13565,Canterbury-Chatard
+https://www.apartments.com/carlyle-court-indianapolis-in/67sb6wr/,67sb6wr,46240,587,1,1.0,470.0,35,20,587,39.92558,-86.14261,Nora Far Northside
+https://www.apartments.com/aspen-pointe-apartments-indianapolis-in/f70mgxs/,f70mgxs,46221,869,0,1.0,533.0,29,22,869,39.69624,-86.26328,Valley Mills
+https://www.apartments.com/landmark-indianapolis-in/rk29pg3/,rk29pg3,46260,749,0,1.0,436.0,6,27,749,39.8921,-86.19402,Crooked Creek
+https://www.apartments.com/the-retreat-on-washington-indianapolis-in/ys1r1lr/,ys1r1lr,46222,858,1,1.0,724.0,43,37,858,39.76915,-86.20889,Hawthorne
+https://www.apartments.com/slate-run-indianapolis-in/nsp9sjq/,nsp9sjq,46268,725,0,1.0,288.0,5,21,725,39.92581,-86.213,College Park
+https://www.apartments.com/parc-bordeaux-apartments-indianapolis-in/dhmbxyh/,dhmbxyh,46227,722,1,1.0,400.0,24,20,722,39.69542,-86.10906,Edgewood
+https://www.apartments.com/historic-marcy-village-indianapolis-in/jxccjs4/,jxccjs4,46205,1085,1,1.0,625.0,51,36,1085,39.8399,-86.13404,Indianapolis
+https://www.apartments.com/bristol-square-indianapolis-in/9z1pt66/,9z1pt66,46229,665,1,1.5,808.0,7,24,665,39.80332,-85.98238,Far Eastside
+https://www.apartments.com/the-steeples-on-washington-indianapolis-in/6xmskxt/,6xmskxt,46222,956,1,1.0,762.0,60,35,956,39.76619,-86.20841,Hawthorne
+https://www.apartments.com/mozzo-indianapolis-in/mklzg7h/,mklzg7h,46203,1081,0,1.0,512.0,80,61,1081,39.75908,-86.14738,Fletcher Place
+https://www.apartments.com/a-62-indianapolis-in/bdbc678/,bdbc678,46220,1050,2,1.0,802.0,40,26,1050,39.86737,-86.09608,Allisonville
+https://www.apartments.com/northwoods-apartments-indianapolis-in/3cnsc5d/,3cnsc5d,46234,640,0,1.0,415.0,31,30,640,39.77615,-86.32358,Chapel Hill Ben Davis
+https://www.apartments.com/highland-pointe-indianapolis-in/g6l4b7y/,g6l4b7y,46228,735,1,1.0,685.0,27,25,735,39.85027,-86.19394,Wynnedale Spring Hill
+https://www.apartments.com/lighthouse-landings-indianapolis-in/efqw9gn/,efqw9gn,46217,1218,1,1.0,890.0,21,0,1218,39.66844,-86.19806,Southern Dunes
+https://www.apartments.com/brockton-apartments-townhomes-indianapolis-in/n7gqz6n/,n7gqz6n,46220,759,0,1.0,444.0,25,29,759,39.85694,-86.11167,Indianapolis
+https://www.apartments.com/historic-audubon-court-indianapolis-in/pjywwws/,pjywwws,46219,640,0,1.0,410.0,77,37,640,39.77049,-86.06985,Irvington
+https://www.apartments.com/wellington-village-indianapolis-in/tpjvd9c/,tpjvd9c,46219,825,2,1.0,1220.0,10,34,350,39.79175,-86.03219,East Warren
+https://www.apartments.com/strawbridge-green-indianapolis-in/w5vpx1h/,w5vpx1h,46237,910,2,1.0,807.0,7,26,910,39.69952,-86.09752,South Emerson
+https://www.apartments.com/wellington-square-apartments-indianapolis-in/34js65e/,34js65e,46220,645,1,1.0,555.0,87,39,645,39.87245,-86.14551,Broad Ripple
+https://www.apartments.com/madison-lofts-indianapolis-in/zpq104w/,zpq104w,46225,785,1,1.0,583.0,50,35,785,39.74754,-86.15481,Near Southside
+https://www.apartments.com/braeburn-village-indianapolis-in/3yrph6f/,3yrph6f,46219,703,1,1.0,600.0,38,29,703,39.79708,-86.02094,East Warren
+https://www.apartments.com/meridian-court-south-indianapolis-in/4ezhq6j/,4ezhq6j,46217,615,1,1.0,470.0,9,11,615,39.65922,-86.16273,Linden Wood
+https://www.apartments.com/fox-club-indianapolis-in/qchfybx/,qchfybx,46227,765,1,1.0,800.0,29,25,765,39.70198,-86.12025,University Heights
+https://www.apartments.com/butler-place-indianapolis-in/nhs553q/,nhs553q,46219,625,0,1.0,353.0,73,38,625,39.77064,-86.07945,Irvington
+https://www.apartments.com/the-meridian-south-indianapolis-in/8xcnes0/,8xcnes0,46260,765,0,1.0,445.0,19,29,500,39.88335,-86.19828,Crooked Creek
+https://www.apartments.com/dawson-village-indianapolis-in/wdg6h2j/,wdg6h2j,46203,649,2,1.0,700.0,26,34,200,39.73206,-86.12754,Near Southeast
+https://www.apartments.com/college-courts-of-nora-indianapolis-in/p2x21vt/,p2x21vt,46240,814,1,1.0,475.0,24,22,814,39.92275,-86.14399,Nora Far Northside
+https://www.apartments.com/everly-at-meridian-hills-indianapolis-in/0eyqdb1/,0eyqdb1,46260,1399,2,1.0,1200.0,20,23,1399,39.87315,-86.17684,Delaware Trails
+https://www.apartments.com/river-ridge-indianapolis-in/sy2xsz5/,sy2xsz5,46240,1174,1,1.0,625.0,37,0,1174,39.92387,-86.08854,Keystone
+https://www.apartments.com/woodhaven-park-apartment-indianapolis-in/vz17sre/,vz17sre,46254,720,1,1.0,650.0,37,0,720,39.83222,-86.2749,Northwest High School
+https://www.apartments.com/the-masters-apartments-indianapolis-in/k6ckpsc/,k6ckpsc,46250,1175,1,1.0,700.0,33,17,1175,39.91828,-86.04569,Castleton
+https://www.apartments.com/indy-flats-indianapolis-in/5l46s5q/,5l46s5q,46202,605,0,1.0,375.0,75,57,605,39.7847,-86.15449,Near Northside
+https://www.apartments.com/stonybrook-commons-indianapolis-in/91ql9w7/,91ql9w7,46235,895,2,1.0,845.0,11,0,895,39.8129,-85.96642,Far Eastside
+https://www.apartments.com/kingston-square-apartments-indianapolis-in/d7rmzbl/,d7rmzbl,46226,769,0,1.0,578.0,48,36,769,39.82201,-86.04288,Arlington Woods
+https://www.apartments.com/ashgrove-apartments-indianapolis-in/f3txf4s/,f3txf4s,46241,850,1,1.0,576.0,44,30,850,39.74949,-86.28094,Chapel Hill Ben Davis
+https://www.apartments.com/notch-at-nora-indianapolis-in/494te5h/,494te5h,46240,1079,0,1.0,605.0,65,31,1079,39.91104,-86.13513,North Central
+https://www.apartments.com/idlewood-apartments-indianapolis-in/1zlsyj4/,1zlsyj4,46214,830,1,1.0,595.0,39,35,830,39.82012,-86.28232,Eagle Creek
+https://www.apartments.com/darby-court-indianapolis-in/0x1d5n2/,0x1d5n2,46224,626,1,1.0,495.0,30,0,626,39.79523,-86.27007,Indianapolis
+https://www.apartments.com/the-residence-at-white-river-apartments-indianapolis-in/1zy0xc6/,1zy0xc6,46228,1225,1,1.0,605.0,7,30,100,39.82598,-86.19661,Wynnedale Spring Hill
+https://www.apartments.com/westpark-townhomes-indianapolis-in/vl5hghe/,vl5hghe,46214,1244,1,1.0,650.0,33,30,1244,39.78232,-86.29999,Chapel Hill Ben Davis
+https://www.apartments.com/cumberland-manor-indianapolis-in/tge35j9/,tge35j9,46229,1065,2,1.0,790.0,42,0,1065,39.78141,-85.95631,Cumberland
+https://www.apartments.com/the-win-townhomes-indianapolis-in/dw9rvnh/,dw9rvnh,46220,1599,2,2.5,1074.0,91,38,1599,39.86764,-86.14152,Broad Ripple
+https://www.apartments.com/the-fort-apartments-indianapolis-in/kjb3428/,kjb3428,46216,1117,1,1.0,648.0,44,0,1117,39.8583,-86.00629,Indianapolis
+https://www.apartments.com/historic-irvington-flats-indianapolis-in/g4fl6zx/,g4fl6zx,46219,869,0,1.0,600.0,63,37,869,39.76709,-86.07787,Irvington
+https://www.apartments.com/echo-ridge-indianapolis-in/ny1f3fm/,ny1f3fm,46239,894,1,1.0,773.0,10,0,250,39.71328,-86.01665,Five Points
+https://www.apartments.com/pangea-prairies-indianapolis-in/gl3g6zz/,gl3g6zz,46226,815,1,1.0,643.0,42,30,815,39.84004,-86.06409,Devington
+https://www.apartments.com/murphys-landing-indianapolis-in/m7hj3rh/,m7hj3rh,46217,1151,1,1.0,700.0,60,0,1151,39.66597,-86.184,Dakota Ridge
+https://www.apartments.com/aura-indianapolis-in/lh8wmzg/,lh8wmzg,46228,986,1,1.0,1008.0,5,23,986,39.82589,-86.21032,Wynnedale Spring Hill
+https://www.apartments.com/apartments-marten-court-indianapolis-in/xgz8q4q/,xgz8q4q,46226,675,1,1.0,800.0,54,0,675,39.83355,-86.0296,Far Eastside
+https://www.apartments.com/the-brixton-beech-grove-in/k7h05y9/,k7h05y9,46107,959,1,1.0,650.0,55,0,959,39.69624,-86.0853,Beech Grove
+https://www.apartments.com/eagle-chase-indianapolis-in/d66lrdj/,d66lrdj,46254,1042,1,1.0,722.0,28,32,1042,39.83418,-86.28628,Eagle Creek
+https://www.apartments.com/eagle-lake-landing-indianapolis-in/lrsn5nd/,lrsn5nd,46224,934,1,1.0,579.0,28,0,934,39.79228,-86.26266,Indianapolis
+https://www.apartments.com/pangea-courts-indianapolis-in/dn9c6vk/,dn9c6vk,46201,693,1,1.0,550.0,64,0,693,39.77836,-86.09458,Near Eastside
+https://www.apartments.com/woodbrook-apartments-indianapolis-in/e870xym/,e870xym,46254,1060,1,1.0,675.0,41,27,250,39.84763,-86.24303,Snacks Guion Creek
+https://www.apartments.com/lux-on-capitol-indianapolis-in/gmdq7yy/,gmdq7yy,46204,699,0,1.0,419.0,92,64,699,39.77529,-86.16086,North Meridian
+https://www.apartments.com/castle-creek-apartments-indianapolis-in/l976t1d/,l976t1d,46250,1220,1,1.0,732.0,50,27,1220,39.91818,-86.07129,Castleton
+https://www.apartments.com/sebring-court-indianapolis-in/z2q88qw/,z2q88qw,46224,530,1,1.0,467.0,12,28,530,39.79152,-86.27182,Indianapolis
+https://www.apartments.com/shadeland-terrace-indianapolis-in/5yz5kvm/,5yz5kvm,46226,1200,2,1.5,1300.0,46,0,1200,39.84115,-86.04509,Indianapolis
+https://www.apartments.com/rosewood-commons-indianapolis-in/lr6rxkd/,lr6rxkd,46254,686,0,1.0,288.0,49,25,686,39.85154,-86.23761,Snacks Guion Creek
+https://www.apartments.com/penn-street-tower-indianapolis-in/kegegfc/,kegegfc,46204,975,1,1.0,697.0,99,68,975,39.76902,-86.15592,Circle City
+https://www.apartments.com/stonehedge-apartments-greenwood-in/t8hfdv9/,t8hfdv9,46142,1019,1,1.0,695.0,38,0,1019,39.63348,-86.15167,Southside Indianapolis
+https://www.apartments.com/river-west-flats-indianapolis-in/pn09lqt/,pn09lqt,46222,1029,0,1.0,345.0,17,40,1029,39.78283,-86.19071,Near Westside Indianapolis
+https://www.apartments.com/cox-creek-at-reagan-crossing-indianapolis-in/szb9m37/,szb9m37,46234,1165,1,1.0,894.0,15,0,300,39.77716,-86.33725,Avon
+https://www.apartments.com/north-willow-indianapolis-in/76y2dfz/,76y2dfz,46260,970,1,1.0,800.0,57,35,970,39.9133,-86.19272,St Vincent Greenbriar
+https://www.apartments.com/edgewater-apartments-indianapolis-in/qpve4tw/,qpve4tw,46220,1404,1,1.0,900.0,71,39,1404,39.87811,-86.1453,Broad Ripple
+https://www.apartments.com/brookhaven-at-county-line-senior-apartments-indianapolis-in/1br2kp4/,1br2kp4,46227,725,1,1.0,720.0,30,24,725,39.63722,-86.13995,Hill Valley
+https://www.apartments.com/timber-point-apartments-indianapolis-in/6280z5s/,6280z5s,46256,920,1,1.0,725.0,0,23,920,39.87164,-86.04246,I-69 Fall Creek
+https://www.apartments.com/village-at-fall-creek-indianapolis-in/l9derhg/,l9derhg,46205,600,0,1.0,446.0,38,46,600,39.82166,-86.13684,Mapleton Fall Creek
+https://www.apartments.com/southern-dunes-indianapolis-in/repm8z3/,repm8z3,46217,1433,1,1.0,702.0,24,0,1433,39.66063,-86.19926,Southern Dunes
+https://www.apartments.com/oak-park-indianapolis-in/ezedy1p/,ezedy1p,46227,827,0,1.0,450.0,48,31,827,39.6444,-86.12177,South Perry
+https://www.apartments.com/home-place-senior-living-indianapolis-in/4bmdw0k/,4bmdw0k,46221,800,0,1.0,640.0,12,0,700,39.6662,-86.27324,Valley Mills
+https://www.apartments.com/the-jameson-indianapolis-in/t6r9gz8/,t6r9gz8,46260,999,1,1.0,611.0,6,32,999,39.90289,-86.18964,St Vincent Greenbriar
+https://www.apartments.com/center-point-apartments-indianapolis-in/04cdkh2/,04cdkh2,46214,1100,1,1.0,700.0,21,36,1100,39.81945,-86.27644,Eagle Creek
+https://www.apartments.com/lockefield-gardens-indianapolis-in/19jndn4/,19jndn4,46202,834,1,1.0,536.0,73,49,834,39.77943,-86.17402,Circle City
+https://www.apartments.com/olivewood-indianapolis-in/rht16l1/,rht16l1,46219,650,0,1.0,288.0,37,28,650,39.79589,-86.02866,East Warren
+https://www.apartments.com/reflections-apartments-indianapolis-in/1t1re46/,1t1re46,46260,889,0,1.0,450.0,11,30,889,39.89986,-86.19112,Indianapolis
+https://www.apartments.com/ivy-knoll-indianapolis-in/7eltl3z/,7eltl3z,46250,1139,2,2.0,1195.0,48,32,1139,39.90423,-86.07036,Castleton
+https://www.apartments.com/the-villages-of-bent-tree-apartments-indianapolis-in/yh81mgv/,yh81mgv,46268,909,1,1.0,503.0,54,33,909,39.90706,-86.21598,Augusta
+https://www.apartments.com/5700-madison-apartments-edgewood-on-madison-indianapolis-in/c7e1s0f/,c7e1s0f,46227,665,0,1.0,296.0,50,29,665,39.68179,-86.1316,Edgewood
+https://www.apartments.com/wyckford-commons-indianapolis-in/rs48730/,rs48730,46214,999,1,1.0,700.0,53,30,999,39.77637,-86.29749,Chapel Hill Ben Davis
+https://www.apartments.com/overlook-at-valley-ridge-apartments-indianapolis-in/7k8mpny/,7k8mpny,46237,964,1,1.0,723.0,56,23,964,39.66799,-86.07995,South Emerson
+https://www.apartments.com/ritchey-reserve-fishers-in/w3pdtel/,w3pdtel,46038,1360,1,1.0,863.0,14,0,250,39.94089,-86.02991,Fishers
+https://www.apartments.com/the-courts-of-monon-indianapolis-in/vg4ckge/,vg4ckge,46205,530,0,1.0,437.0,38,46,530,39.82272,-86.13705,Mapleton Fall Creek
+https://www.apartments.com/carlton-apartments-indianapolis-in/9f0w2p4/,9f0w2p4,46268,690,1,1.0,470.0,26,33,690,39.90541,-86.20854,Indianapolis
+https://www.apartments.com/martinique-terrace-indianapolis-in/62hlj5t/,62hlj5t,46227,879,1,1.0,850.0,27,23,879,39.6677,-86.14689,Indianapolis
+https://www.apartments.com/polo-run-apartments-greenwood-in/x5bcy0p/,x5bcy0p,46142,903,0,1.0,467.0,64,0,903,39.62871,-86.12909,Southside Indianapolis
+https://www.apartments.com/river-crossing-indianapolis-in/n4zqlyq/,n4zqlyq,46240,1134,1,1.0,536.0,42,30,1134,39.91422,-86.10386,Keystone
+https://www.apartments.com/632-mlk-apartments-indianapolis-in/p3mw4rr/,p3mw4rr,46202,1100,0,1.0,2178.0,83,54,1100,39.77648,-86.16736,Downtown Indianapolis
+https://www.apartments.com/citys-end-indianapolis-in/sfhrlg7/,sfhrlg7,46203,1499,0,1.0,549.0,77,39,150,39.75217,-86.13407,Fountain Square
+https://www.apartments.com/mansfield-village-townhomes-indianapolis-in/dem9mml/,dem9mml,46227,1475,2,1.5,1335.0,43,20,1475,39.63553,-86.14995,Hill Valley
+https://www.apartments.com/dunbar-court-indianapolis-in/ec0t2cq/,ec0t2cq,46202,600,0,1.0,345.0,75,52,600,39.78156,-86.16882,Downtown Indianapolis
+https://www.apartments.com/the-otis-at-fort-ben-apartments-indianapolis-in/1c3lr96/,1c3lr96,46216,1275,1,1.0,616.0,45,0,1275,39.85749,-86.0051,Indianapolis
+https://www.apartments.com/wesmont-indianapolis-in/cklkvzg/,cklkvzg,46202,1025,0,1.0,575.0,41,41,1025,39.7874,-86.13915,Martindale-Brightwood
+https://www.apartments.com/cityview-on-meridian-indianapolis-in/svx9pp7/,svx9pp7,46208,1040,1,1.0,615.0,74,50,1040,39.82521,-86.15612,Meridian Kessler
+https://www.apartments.com/the-lakes-of-georgetown-indianapolis-in/2qh9feb/,2qh9feb,46268,815,1,1.0,718.0,29,25,815,39.87055,-86.24341,Augusta
+https://www.apartments.com/946-mlk-indianapolis-in/pd9q0lr/,pd9q0lr,46202,1250,1,1.0,544.0,78,53,1250,39.78064,-86.16852,Circle City
+https://www.apartments.com/ninth-avenue-apartments-indianapolis-in/tp8pveb/,tp8pveb,46237,811,0,1.0,545.0,15,0,811,39.70021,-86.09549,South Emerson
+https://www.apartments.com/the-eclipse-apartments-indianapolis-in/e644vdq/,e644vdq,46260,840,1,1.0,630.0,73,33,840,39.90949,-86.18596,St Vincent Greenbriar
+https://www.apartments.com/coventry-park-village-indianapolis-in/h7wlcb2/,h7wlcb2,46237,1475,2,2.5,1335.0,19,30,1475,39.68682,-86.08459,South Emerson
+https://www.apartments.com/the-life-at-arden-landing-indianapolis-in/sxgddj5/,sxgddj5,46254,822,1,1.0,725.0,30,30,822,39.83259,-86.25452,International Market Place
+https://www.apartments.com/churchman-woods-indianapolis-in/zvv30pw/,zvv30pw,46203,640,1,1.0,525.0,30,0,640,39.71507,-86.07633,Indianapolis
+https://www.apartments.com/ritter-manor-apartments-indianapolis-in/elthlyp/,elthlyp,46218,575,1,1.0,625.0,42,38,575,39.79013,-86.07433,Eastside
+https://www.apartments.com/turtle-creek-indianapolis-in/fsy27ds/,fsy27ds,46260,646,0,1.0,400.0,24,34,646,39.90616,-86.1921,St Vincent Greenbriar
+https://www.apartments.com/wilshaw-apartments-speedway-in/e3wbn7q/,e3wbn7q,46224,1049,1,1.0,656.0,50,0,1049,39.78685,-86.24053,Speedway
+https://www.apartments.com/the-life-at-wood-springs-indianapolis-in/rqfekh0/,rqfekh0,46254,618,1,1.0,632.0,11,33,618,39.83712,-86.2741,Northwest High School
+https://www.apartments.com/country-club-apartments-indianapolis-in/syzgy54/,syzgy54,46227,589,0,1.0,449.0,58,34,589,39.72087,-86.15312,North Perry
+https://www.apartments.com/astoria-park-apartments-indianapolis-in/5091tqn/,5091tqn,46214,945,1,1.0,670.0,27,33,945,39.82019,-86.28622,Eagle Creek
+https://www.apartments.com/pangea-vistas-indianapolis-in/412mcmh/,412mcmh,46219,894,2,1.0,860.0,47,38,894,39.78694,-86.06462,Eastside
+https://www.apartments.com/brookwood-indianapolis-indianapolis-in/lxtc7jg/,lxtc7jg,46227,770,1,1.0,626.0,48,29,770,39.68828,-86.14684,Edgewood
+https://www.apartments.com/the-retreat-at-carmel-carmel-in/76sbd0z/,76sbd0z,46280,1377,1,1.0,1010.0,8,0,200,39.92919,-86.12873,Carmel
+https://www.apartments.com/the-park-at-greenhill-indianapolis-in/xprw3vp/,xprw3vp,46224,831,1,1.0,654.0,42,27,831,39.7664,-86.26194,Garden City
+https://www.apartments.com/the-delaware-apartments-indianapolis-in/cthvegf/,cthvegf,46205,1100,0,1.0,50.0,69,52,1100,39.7977,-86.15283,Fall Creek Place
+https://www.apartments.com/the-wylde-indianapolis-in/b27zf19/,b27zf19,46254,936,1,1.0,580.0,14,33,936,39.8371,-86.27836,Eagle Creek
+https://www.apartments.com/westminster-apartments-greenwood-in/k2npgyb/,k2npgyb,46142,936,1,1.0,621.0,62,0,936,39.63357,-86.12978,Southside Indianapolis
+https://www.apartments.com/the-timbers-apartments-indianapolis-in/x76zrsq/,x76zrsq,46237,1378,1,1.0,702.0,25,22,1378,39.63828,-86.09145,South Perry
+https://www.apartments.com/oakbrook-village-apartments-indianapolis-in/58zpxtn/,58zpxtn,46254,909,1,1.0,680.0,32,25,909,39.86386,-86.24429,Snacks Guion Creek
+https://www.apartments.com/tgm-autumn-woods-indianapolis-in/d1hy2wl/,d1hy2wl,46250,1025,1,1.0,710.0,54,28,1025,39.91724,-86.07452,Castleton
+https://www.apartments.com/cambridge-commons-indianapolis-in/mcfe6hl/,mcfe6hl,46254,700,0,1.0,288.0,34,29,700,39.84243,-86.24394,Indianapolis
+https://www.apartments.com/riverview-apartments-indianapolis-in/hw97hb2/,hw97hb2,46222,1155,0,1.0,516.0,44,41,500,39.77427,-86.18991,Near Westside Indianapolis
+https://www.apartments.com/oak-lake-at-crooked-creek-indianapolis-in/2lbq438/,2lbq438,46268,850,1,1.0,647.0,48,32,850,39.90996,-86.2266,Augusta
+https://www.apartments.com/cherry-glen-indianapolis-in/rlyeph3/,rlyeph3,46227,659,0,1.0,288.0,43,29,350,39.71001,-86.11621,University Heights
+https://www.apartments.com/lakeshore-apartments-indianapolis-in/8qwppw3/,8qwppw3,46250,1223,1,1.0,600.0,61,31,1223,39.90582,-86.08482,Castleton
+https://www.apartments.com/southport-at-buck-creek-indianapolis-in/zj50m0x/,zj50m0x,46227,870,1,1.0,700.0,45,29,870,39.66432,-86.13416,South Perry
+https://www.apartments.com/saxony-court-indianapolis-in/gelksqz/,gelksqz,46219,765,2,1.0,740.0,72,37,300,39.76991,-86.06925,Irvington
+https://www.apartments.com/chateau-in-the-woods-indianapolis-in/b7hgn49/,b7hgn49,46220,899,1,1.0,712.0,30,24,899,39.86287,-86.09838,Allisonville
+https://www.apartments.com/castleton-manor-apartments-indianapolis-in/q7hhdey/,q7hhdey,46220,900,1,1.5,800.0,57,0,900,39.87878,-86.06904,Devonshire
+https://www.apartments.com/sycamores-indianapolis-in/lfxzc1g/,lfxzc1g,46227,731,0,1.0,482.0,54,30,731,39.65048,-86.13052,South Perry
+https://www.apartments.com/stanford-court-speedway-in/we92wyj/,we92wyj,46224,558,1,1.0,470.0,13,0,558,39.79033,-86.26915,Speedway
+https://www.apartments.com/linden-square-indianapolis-in/q5yr41z/,q5yr41z,46234,1045,1,1.0,646.0,29,0,1045,39.77982,-86.33122,Indianapolis
+https://www.apartments.com/st-agnes-indianapolis-in/6pz8wtt/,6pz8wtt,46202,625,0,1.0,375.0,60,56,625,39.78545,-86.15801,Near Northside
+https://www.apartments.com/fallwood-apartments-indianapolis-in/07kg0l3/,07kg0l3,46220,950,1,1.5,760.0,10,0,950,39.8503,-86.09786,Millersville
+https://www.apartments.com/veridian-castleton-indianapolis-in/e4v0xqm/,e4v0xqm,46250,1087,1,1.0,824.0,20,0,200,39.89158,-86.0628,Allisonville
+https://www.apartments.com/avery-point-indianapolis-in/e6rx97n/,e6rx97n,46250,1040,1,1.0,720.0,33,30,1040,39.91121,-86.0494,Castleton
+https://www.apartments.com/riverbend-apartments-indianapolis-in/kd9l6e8/,kd9l6e8,46250,1085,1,1.0,605.0,24,27,1085,39.91523,-86.08174,Castleton
+https://www.apartments.com/canal-overlook-apartments-indianapolis-in/bf4zh7c/,bf4zh7c,46202,1115,0,1.0,456.0,-,-,1115,39.77328,-86.16453,The Canal
+https://www.apartments.com/edison-at-meridian-hills-indianapolis-in/14y45t7/,14y45t7,46260,1029,1,1.0,900.0,25,23,1029,39.87362,-86.17296,Delaware Trails
+https://www.apartments.com/the-towers-at-crooked-creek-senior-housing-indianapolis-in/dedm88k/,dedm88k,46268,912,1,1.0,575.0,58,28,912,39.89932,-86.21779,Augusta
+https://www.apartments.com/townhomes-at-fall-creek-place-indianapolis-in/qs8znhy/,qs8znhy,46205,1449,2,1.0,890.0,66,52,200,39.80129,-86.15219,Fall Creek Place
+https://www.apartments.com/wynbrooke-senior-apartments-indianapolis-in/3yqsq4g/,3yqsq4g,46298,1130,1,1.0,625.0,1,0,1130,39.79339,-86.33871,Avon
+https://www.apartments.com/suncrest-apartments-indianapolis-in/js7tfx6/,js7tfx6,46241,911,1,1.0,648.0,52,33,911,39.75148,-86.2617,Garden City
+https://www.apartments.com/fountain-lake-villas-indianapolis-in/e55tvvn/,e55tvvn,46227,795,1,1.0,777.0,69,32,200,39.6394,-86.12187,South Perry
+https://www.apartments.com/the-sheldrake-apartments-indianapolis-in/gcybyew/,gcybyew,46208,545,0,1.0,333.0,68,52,545,39.79879,-86.15743,Near Northside
+https://www.apartments.com/pangea-hills-indianapolis-in/1ebfcf4/,1ebfcf4,46224,797,1,1.0,625.0,31,32,797,39.7729,-86.25445,Garden City
+https://www.apartments.com/meridian-lakes-indianapolis-in/6cmw9er/,6cmw9er,46260,720,1,1.0,475.0,9,23,720,39.88802,-86.17099,Delaware Trails
+https://www.apartments.com/pangea-vineyards-indianapolis-in/hsgrr03/,hsgrr03,46235,640,0,1.0,414.0,39,35,640,39.83137,-85.98991,Far Eastside
+https://www.apartments.com/gardens-of-canal-court-indianapolis-in/n2n426m/,n2n426m,46202,1094,1,1.0,875.0,78,55,1094,39.77731,-86.16644,The Canal
+https://www.apartments.com/westbury-court-indianapolis-in/sxe2e05/,sxe2e05,46268,571,1,1.0,467.0,31,25,571,39.89436,-86.2404,Augusta
+https://www.apartments.com/park-66-flats-indianapolis-in/1lgcv47/,1lgcv47,46220,1421,0,1.0,651.0,74,39,1421,39.87615,-86.14376,Broad Ripple
+https://www.apartments.com/creek-bay-at-meridian-woods-indianapolis-in/g7w9txz/,g7w9txz,46217,920,1,1.0,720.0,24,0,920,39.66895,-86.17844,Linden Wood
+https://www.apartments.com/autumn-chase-indianapolis-in/bb8w3l9/,bb8w3l9,46227,1009,1,1.0,761.0,4,16,1009,39.64537,-86.10235,South Perry
+https://www.apartments.com/wheeler-lofts-indianapolis-in/wf2nmdk/,wf2nmdk,46203,1129,1,1.0,1515.0,87,40,1129,39.74998,-86.14111,Fountain Square
+https://www.apartments.com/spicewood-indianapolis-in/cfbjm7e/,cfbjm7e,46227,569,0,1.0,288.0,49,34,569,39.71211,-86.15187,North Perry
+https://www.apartments.com/parkhaven-apartments-indianapolis-in/tx4j6k8/,tx4j6k8,46219,740,1,1.0,625.0,13,30,400,39.79421,-86.0276,East Warren
+https://www.apartments.com/the-ripple-indianapolis-in/46bl3ml/,46bl3ml,46220,1950,2,1.0,1128.0,76,36,1950,39.86905,-86.13429,Indianapolis
+https://www.apartments.com/the-stratford-indianapolis-in/b0derkb/,b0derkb,46224,630,0,1.0,363.0,25,31,630,39.81323,-86.2503,Eagledale
+https://www.apartments.com/pangea-fields-indianapolis-in/zkfrydz/,zkfrydz,46222,791,1,1.0,662.0,25,33,791,39.8166,-86.21644,Eagledale
+https://www.apartments.com/broad-ripple-apartments-indianapolis-in/9b499y4/,9b499y4,46220,1050,2,1.0,800.0,90,38,250,39.86822,-86.14039,Broad Ripple
+https://www.apartments.com/abney-lake-indianapolis-in/m86v9ql/,m86v9ql,46222,723,1,1.0,700.0,14,30,723,39.82218,-86.21844,Eagledale
+https://www.apartments.com/pleasant-run-senior-apartments-indianapolis-in/y6xs26s/,y6xs26s,46237,1210,1,1.0,625.0,26,23,1210,39.64506,-86.08631,South Perry
+https://www.apartments.com/tgm-shadeland-station-indianapolis-in/9kktqc6/,9kktqc6,46256,940,1,1.0,700.0,25,30,940,39.88415,-86.04064,I-69 Fall Creek
+https://www.apartments.com/lake-castleton-indianapolis-in/qedv4jz/,qedv4jz,46256,775,0,1.0,431.0,53,33,775,39.89247,-86.04506,I-69 Fall Creek
+https://www.apartments.com/harbour-pointe-indianapolis-in/k8t6sgb/,k8t6sgb,46205,969,1,1.0,650.0,19,32,969,39.83699,-86.11344,Millersville
+https://www.apartments.com/schoolhouse-flats-indianapolis-in/570n2zm/,570n2zm,46219,969,1,1.0,700.0,43,26,969,39.76498,-86.06451,Irvington
+https://www.apartments.com/the-legend-at-speedway-speedway-in/h0yhfl2/,h0yhfl2,46224,892,1,1.0,571.0,54,0,892,39.79611,-86.25251,Speedway
+https://www.apartments.com/canterbury-house-apartments-mann-road-indianapolis-in/21mgzzc/,21mgzzc,46221,932,1,1.0,792.0,1,0,932,39.6689,-86.25131,Valley Mills
+https://www.apartments.com/metropolitan-fishers-fishers-in/423jv2l/,423jv2l,46038,1175,1,1.0,801.0,21,0,1175,39.9359,-86.05721,Fishers
+https://www.apartments.com/grande-reserve-at-geist-indianapolis-in/p6wm8vs/,p6wm8vs,46236,1050,1,1.0,771.0,54,0,1050,39.90129,-85.96557,Geist
+https://www.apartments.com/512-e-minnesota-st-indianapolis-in/pe2bf9r/,pe2bf9r,46203,899,0,1.0,565.0,63,39,899,39.74493,-86.14895,Bates-Hendricks
+https://www.apartments.com/redwood-indianapolis-indianapolis-in/08xl6e3/,08xl6e3,46237,1499,2,2.0,1127.0,17,19,500,39.65263,-86.07,South Franklin
+https://www.apartments.com/briergate-indianapolis-in/s460sx4/,s460sx4,46229,635,1,1.0,576.0,23,30,250,39.80905,-86.00737,Far Eastside
+https://www.apartments.com/the-boardwalk-at-westlake-indianapolis-in/r7tm5g1/,r7tm5g1,46224,613,0,1.0,441.0,17,32,613,39.77177,-86.26394,Garden City
+https://www.apartments.com/auburn-hill-indianapolis-in/rwx3ej1/,rwx3ej1,46224,950,1,1.0,722.0,44,34,950,39.77829,-86.26218,Garden City
+https://www.apartments.com/the-connect-apartments-indianapolis-in/7dj986y/,7dj986y,46260,750,1,1.5,875.0,12,30,750,39.90054,-86.19403,St Vincent Greenbriar
+https://www.apartments.com/cross-creek-apartments-indianapolis-in/0zh5801/,0zh5801,46254,715,1,1.0,510.0,41,25,715,39.85794,-86.2428,Snacks Guion Creek
+https://www.apartments.com/spinnaker-court-indianapolis-in/704rmdz/,704rmdz,46214,610,1,1.0,470.0,14,30,610,39.82,-86.29108,Eagle Creek
+https://www.apartments.com/estates-of-creekside-apartments-indianapolis-in/jxbt7z5/,jxbt7z5,46227,999,1,1.0,675.0,61,27,999,39.6489,-86.11477,South Perry
+https://www.apartments.com/the-hermitage-indianapolis-in/b01lk1b/,b01lk1b,46224,965,1,1.0,665.0,62,0,965,39.79725,-86.25604,Indianapolis
+https://www.apartments.com/woods-of-castleton-indianapolis-in/694cxws/,694cxws,46256,884,1,1.0,700.0,34,34,884,39.90704,-86.03915,I-69 Fall Creek
+https://www.apartments.com/pine-glen-apartments-indianapolis-in/w9l6zzk/,w9l6zzk,46227,785,1,1.0,608.0,62,27,785,39.70603,-86.15529,North Perry
+https://www.apartments.com/park-at-eagle-creek-indianapolis-in/ryvxv93/,ryvxv93,46254,1063,1,1.0,751.0,7,11,200,39.85147,-86.27963,Eagle Creek
+https://www.apartments.com/eagle-creek-apartments-indianapolis-in/b2rgj4c/,b2rgj4c,46234,1060,1,1.0,910.0,0,0,1060,39.82798,-86.31498,Eagle Creek
+https://www.apartments.com/beechmill-apartments-indianapolis-in/rncfre2/,rncfre2,46227,860,1,1.0,650.0,51,26,860,39.64167,-86.13442,South Perry
+https://www.apartments.com/regency-lihtc-indianapolis-in/2zv7v1c/,2zv7v1c,46227,662,1,1.0,698.0,38,22,662,39.68527,-86.15546,Southdale
+https://www.apartments.com/scandia-apartments-indianapolis-in/9er4df5/,9er4df5,46250,899,1,1.0,780.0,35,0,899,39.92207,-86.07089,Castleton
+https://www.apartments.com/ayr-indianapolis-in/fkdb8hv/,fkdb8hv,46220,995,0,1.0,508.0,51,33,250,39.86594,-86.11725,Glendale
+https://www.apartments.com/the-lodge-at-trails-edge-indianapolis-in/1wp4yw6/,1wp4yw6,46240,999,1,1.0,652.0,32,18,999,39.92478,-86.13803,Nora Far Northside
+https://www.apartments.com/the-continental-towers-at-vermont-place-indianapolis-in/lskywte/,lskywte,46204,1020,1,1.0,550.0,96,67,1020,39.77318,-86.15808,Indianapolis
+https://www.apartments.com/the-marott-apartments-indianapolis-in/cqv6bmf/,cqv6bmf,46208,1645,2,2.0,1092.0,54,52,1645,39.80517,-86.15595,Mapleton Fall Creek
+https://www.apartments.com/waterfront-terrace-apartments-indianapolis-in/pr9m19s/,pr9m19s,46224,1070,3,2.0,1034.0,26,34,1070,39.81831,-86.2466,Eagledale
+https://www.apartments.com/circle-city-apartments-indianapolis-in/xbcddnp/,xbcddnp,46202,2043,2,2.5,1700.0,62,57,2043,39.78487,-86.15695,Near Northside
+https://www.apartments.com/cloverleaf-apartments-townhomes-indianapolis-in/11b7pf4/,11b7pf4,46241,860,3,1.5,1240.0,43,33,860,39.75402,-86.26146,Garden City
+https://www.apartments.com/forest-ridge-indianapolis-in/52ygmmm/,52ygmmm,46260,1420,4,2.0,1487.0,4,28,1420,39.89281,-86.2015,Crooked Creek
+https://www.apartments.com/chateau-de-ville-indianapolis-in/shng817/,shng817,46220,1567,3,2.5,1650.0,13,0,1567,39.8526,-86.10157,Millersville
+https://www.apartments.com/greentree-apartments-indianapolis-in/zt52kcx/,zt52kcx,46227,739,3,2.0,1140.0,57,28,739,39.65224,-86.11846,South Perry
+https://www.apartments.com/community-place-indianapolis-in/ds91f3k/,ds91f3k,46227,1575,4,2.5,1306.0,38,26,1575,39.63769,-86.13717,South Perry
+https://www.apartments.com/avia-lofts-at-founders-road-indianapolis-in/deszx0j/,deszx0j,46268,1210,2,2.0,750.0,59,32,1210,39.91296,-86.2218,College Park
+https://www.apartments.com/sawmill-apartments-indianapolis-in/peg11lr/,peg11lr,46237,929,2,1.5,950.0,2,23,929,39.70174,-86.10543,South Emerson
+https://www.apartments.com/alpine-studios-indianapolis-in/0mdymh2/,0mdymh2,46221,1250,2,2.0,992.0,24,20,1250,39.69927,-86.26178,Valley Mills
+https://www.apartments.com/crooked-creek-indianapolis-in/2w29ek8/,2w29ek8,46268,1125,2,1.5,1000.0,26,30,1125,39.90463,-86.22775,Augusta
+https://www.apartments.com/fountainhead-apartments-indianapolis-in/zc8hs9x/,zc8hs9x,46260,1200,3,2.0,1553.0,14,31,1200,39.90189,-86.1915,St Vincent Greenbriar
+https://www.apartments.com/encore-55-boutique-apartments-indianapolis-in/4kxjcbl/,4kxjcbl,46250,2045,2,2.0,1381.0,40,30,2045,39.89032,-86.05393,Devonshire
+https://www.apartments.com/pheasant-run-indianapolis-in/xwhrc8m/,xwhrc8m,46239,1940,3,2.0,1173.0,28,15,250,39.75601,-86.02747,Raymond Park
+https://www.apartments.com/10-west-apartments-indianapolis-in/exff7em/,exff7em,46214,1574,3,2.5,1288.0,47,30,1574,39.77758,-86.2995,Chapel Hill Ben Davis
+https://www.apartments.com/m-club-apartments-indianapolis-in/tvqshg8/,tvqshg8,46226,2075,2,2.0,933.0,8,0,2075,39.85914,-86.04565,Indianapolis
+https://www.apartments.com/pier-39-apartments-townhomes-indianapolis-in/e8l367m/,e8l367m,46214,1400,3,2.5,1340.0,31,32,1400,39.82098,-86.28792,Bayhead Village
+https://www.apartments.com/residences-on-ronald-reagan-avon-in/z3sttzz/,z3sttzz,46123,1900,3,2.0,1510.0,20,0,1900,39.7552,-86.33588,Avon
+https://www.apartments.com/waterside-at-castleton-indianapolis-in/c44rsgf/,c44rsgf,46256,1205,2,2.0,950.0,35,34,1205,39.90718,-86.04016,I-69 Fall Creek
+https://www.apartments.com/keeneland-crest-apartments-indianapolis-in/f7s4x3t/,f7s4x3t,46237,1400,2,2.0,1040.0,13,20,1400,39.64775,-86.07163,South Franklin
+https://www.apartments.com/mariners-village-apartments-indianapolis-in/kkkbnt8/,kkkbnt8,46214,1435,2,2.0,1339.0,11,26,1435,39.80982,-86.28557,Key Meadows
+https://www.apartments.com/roberts-school-flats-indianapolis-in/gvzs7ww/,gvzs7ww,46201,2009,2,2.0,1377.0,44,43,2009,39.78059,-86.13234,Near Eastside
+https://www.apartments.com/willow-glen-east-indianapolis-in/0nme9y2/,0nme9y2,46229,1080,3,1.5,1358.0,20,23,1080,39.80888,-85.99186,Far Eastside
+https://www.apartments.com/maple-court-indianapolis-in/mkh7pxk/,mkh7pxk,46205,729,2,1.5,750.0,60,50,729,39.81998,-86.15521,Mapleton Fall Creek
+https://www.apartments.com/summerwood-on-towne-line-apartments-indianapolis-in/8lwxpw3/,8lwxpw3,46268,1348,3,2.0,1269.0,46,35,1348,39.909,-86.20508,Augusta
+https://www.apartments.com/waterfront-pointe-indianapolis-in/vgjx0nf/,vgjx0nf,46214,1400,3,2.0,1213.0,16,26,1400,39.80898,-86.28207,Key Meadows
+https://www.apartments.com/serenity-manor-independent-living-senior-55-indianapolis-in/rh4lxt1/,rh4lxt1,46219,1075,2,2.0,800.0,47,0,150,39.78583,-86.04774,Warren Park
+https://www.apartments.com/five-twenty-virginia-indianapolis-in/tf7y05c/,tf7y05c,46203,1539,2,1.5,1044.0,80,60,1539,39.75937,-86.14698,Fletcher Place
+https://www.apartments.com/oaks-of-eagle-creek-indianapolis-in/f9pykwt/,f9pykwt,46254,1240,2,2.0,1064.0,3,17,1240,39.84942,-86.28057,Eagle Creek
+https://www.apartments.com/aspen-chase-indianapolis-in/3fwd4ye/,3fwd4ye,46254,1184,3,1.5,1200.0,22,18,1184,39.85682,-86.25394,Snacks Guion Creek
+https://www.apartments.com/sherman-village-indianapolis-in/r6c49f2/,r6c49f2,46237,940,3,1.5,1300.0,8,22,300,39.69968,-86.10054,South Emerson
+https://www.apartments.com/the-bristol-camby-in/2cnx9k9/,2cnx9k9,46113,1775,2,2.0,1003.0,2,0,1775,39.651,-86.31551,Camby
+https://www.apartments.com/la-joya-apartmemts-indianapolis-in/bqbdfk8/,bqbdfk8,46254,1009,3,2.0,1160.0,8,31,1009,39.83684,-86.23683,Snacks Guion Creek
+https://www.apartments.com/double-creek-flats-plainfield-in/txwe7h8/,txwe7h8,46168,2135,3,2.0,1279.0,10,0,2135,39.73095,-86.32867,Six Points
+https://www.apartments.com/the-george-indianapolis-in/xbfg8nm/,xbfg8nm,46254,1830,3,2.0,1032.0,47,25,500,39.85829,-86.23949,Snacks Guion Creek
+https://www.apartments.com/willow-glen-south-beech-grove-in/yspwdms/,yspwdms,46107,1455,3,1.5,1358.0,22,0,1455,39.69633,-86.09569,South Emerson
+https://www.apartments.com/el-dorado-apartments-indianapolis-in/ykg55ts/,ykg55ts,46222,989,4,2.5,1500.0,17,29,989,39.79731,-86.22038,Eagledale
+https://www.apartments.com/warren-harbor-apartments-indianapolis-in/xyq576q/,xyq576q,46229,1025,3,2.0,1375.0,43,27,1025,39.79841,-86.00411,East Warren
+https://www.apartments.com/auburn-place-apartments-greenwood-in/mrhlqsh/,mrhlqsh,46142,1212,3,1.5,1452.0,69,0,1212,39.62688,-86.12267,Southside Indianapolis
+https://www.apartments.com/waterford-place-apartments-indianapolis-in/z7qvldy/,z7qvldy,46227,1400,2,2.0,1200.0,37,23,300,39.64502,-86.14081,Hill Valley
+https://www.apartments.com/pebble-point-indianapolis-in/25d65cb/,25d65cb,46214,1224,3,2.5,1345.0,9,22,1224,39.80953,-86.29266,Key Meadows
+https://www.apartments.com/lakes-of-windsor-indianapolis-in/qhe6kqz/,qhe6kqz,46237,1620,3,2.0,1402.0,49,22,1620,39.66213,-86.0748,South Franklin
+https://www.apartments.com/fountain-parc-indianapolis-in/stmjg25/,stmjg25,46220,1375,3,2.5,1432.0,39,23,1375,39.86907,-86.08718,Allisonville
+https://www.apartments.com/pangea-groves-indianapolis-in/7n3965x/,7n3965x,46205,1202,4,2.0,1200.0,67,37,1202,39.84626,-86.13814,Fairgrounds
+https://www.apartments.com/summit-at-keystone-indianapolis-in/4k5tfcj/,4k5tfcj,46220,1479,3,1.5,1056.0,56,22,1479,39.87796,-86.11965,Glendale
+https://www.apartments.com/river-road-apartments-indianapolis-in/bd3nqyb/,bd3nqyb,46240,1130,2,2.0,1140.0,14,18,1130,39.92295,-86.09619,Keystone
+https://www.apartments.com/english-village-indianapolis-in/n1mpqgq/,n1mpqgq,46239,1004,2,1.5,770.0,15,21,1004,39.75945,-86.03487,East Gate
+https://www.apartments.com/la-perla-apartments-indianapolis-in/njf4knq/,njf4knq,46224,1200,3,2.0,1200.0,47,34,1200,39.81395,-86.25488,Eagledale
+https://www.apartments.com/buffalo-creek-apartments-indianapolis-in/9pcxtn7/,9pcxtn7,46227,1359,2,2.0,903.0,27,22,1359,39.63598,-86.14637,Hill Valley
+https://www.apartments.com/island-club-indianapolis-in/92neyw5/,92neyw5,46214,1549,2,2.0,1055.0,12,21,1549,39.81118,-86.29642,Key Meadows
+https://www.apartments.com/buckingham-balmoral-indianapolis-in/nsk3g2n/,nsk3g2n,46208,2169,4,2.0,1983.0,42,51,300,39.81229,-86.15615,Mapleton Fall Creek
+https://www.apartments.com/windsor-court-indianapolis-in/t033keb/,t033keb,46227,989,2,2.0,1140.0,62,29,989,39.6603,-86.12355,South Perry
+https://www.apartments.com/benjamin-court-indianapolis-in/b2m9y49/,b2m9y49,46216,890,2,2.0,966.0,41,0,890,39.86068,-86.00166,Indianapolis
+https://www.apartments.com/williamsburg-north-indianapolis-in/12583v4/,12583v4,46220,1707,4,2.0,1520.0,37,25,1707,39.87014,-86.09238,Allisonville
+https://www.apartments.com/steeplechase-at-shiloh-crossing-avon-in/wg2q5dj/,wg2q5dj,46123,2265,3,2.0,1204.0,48,0,2265,39.76668,-86.34127,Avon
+https://www.apartments.com/covered-bridge-apartments-indianapolis-in/pxtqp0v/,pxtqp0v,46268,890,2,2.0,1000.0,42,25,890,39.87621,-86.2419,Augusta
+https://www.apartments.com/jade-north-apartments-indianapolis-in/900nq35/,900nq35,46220,1054,3,2.0,1136.0,76,39,1054,39.87543,-86.14534,Broad Ripple
+https://www.apartments.com/stone-lake-indianapolis-in/xs5pjtm/,xs5pjtm,46227,891,2,2.0,902.0,30,27,891,39.70734,-86.11183,University Heights
+https://www.apartments.com/fishermans-village-indianapolis-in/tx0get8/,tx0get8,46214,1160,2,2.0,888.0,7,24,1160,39.8114,-86.29096,Key Meadows
+https://www.apartments.com/the-residences-on-56th-street-indianapolis-in/9ls8wv4/,9ls8wv4,46226,1875,3,2.0,2645.0,1,19,1875,39.85997,-86.05181,Brendonwood
+https://www.apartments.com/canal-square-indianapolis-in/es6xb9n/,es6xb9n,46202,2014,2,2.0,1300.0,82,58,2014,39.77224,-86.16547,The Canal
+https://www.apartments.com/tgm-avalon-lake-indianapolis-in/cybeetg/,cybeetg,46220,1455,3,2.5,1345.0,54,0,1455,39.8791,-86.07113,Devonshire
+https://www.apartments.com/iron-works-at-keystone-indianapolis-in/ett7jnp/,ett7jnp,46240,2160,2,2.0,1408.0,41,30,2160,39.91151,-86.11631,North Central
+https://www.apartments.com/sunrise-on-the-monon-carmel-in/65b75sv/,65b75sv,46280,2340,3,2.0,1627.0,5,0,200,39.93158,-86.13058,Carmel
+https://www.apartments.com/serenity-park-apartments-indianapolis-in/vqss72e/,vqss72e,46235,834,2,1.5,1101.0,46,35,834,39.82896,-86.0084,Far Eastside
+https://www.apartments.com/senate-manor-indianapolis-in/t6e6cb9/,t6e6cb9,46204,914,1,1.5,666.0,90,63,914,39.77541,-86.16272,Circle City
+https://www.apartments.com/park-view-at-beech-grove-indianapolis-in/15q2gr7/,15q2gr7,46203,1255,4,2.5,1410.0,31,0,1255,39.71505,-86.07455,Indianapolis
+https://www.apartments.com/7-pointe-indianapolis-in/5538nvn/,5538nvn,46205,1460,3,2.0,1290.0,42,29,1460,39.84378,-86.11561,Millersville
+https://www.apartments.com/pangea-riverside-indianapolis-in/jfcwe05/,jfcwe05,46222,1470,3,1.5,1200.0,10,35,1470,39.80419,-86.20448,Marian Cold Springs
+https://www.apartments.com/marabou-mills-indianapolis-in/01zxcw0/,01zxcw0,46214,1200,2,2.0,864.0,6,25,300,39.8172,-86.29673,Eagle Creek
+https://www.apartments.com/82-flats-at-the-crossing-indianapolis-in/wqb0jel/,wqb0jel,46240,2004,2,2.0,1199.0,56,28,2004,39.91134,-86.09907,Keystone
+https://www.apartments.com/willowood-east-indianapolis-in/svfmsh4/,svfmsh4,46235,982,2,2.0,864.0,22,0,350,39.82499,-85.96774,Far Eastside
+https://www.apartments.com/lenox-apartments-indianapolis-in/qkrlqry/,qkrlqry,46226,1300,2,2.0,1200.0,13,0,1300,39.85203,-86.04857,Brendonwood
+https://www.apartments.com/estates-at-crystal-bay-indianapolis-in/lphwkge/,lphwkge,46260,1275,3,1.5,1300.0,14,29,1275,39.8818,-86.20108,Crooked Creek
+https://www.apartments.com/suites-of-irvington-indianapolis-in/7tlqqyy/,7tlqqyy,46219,750,2,1.5,700.0,76,37,750,39.77119,-86.06886,Irvington
+https://www.apartments.com/eagle-creek-court-indianapolis-in/8036fh3/,8036fh3,46224,1021,2,2.0,1140.0,59,0,1021,39.7959,-86.26652,Indianapolis
+https://www.apartments.com/forte-indianapolis-in/rj1vxq0/,rj1vxq0,46203,1490,1,1.5,743.0,87,40,1490,39.75031,-86.14019,Downtown Indianapolis
+https://www.apartments.com/beech-meadow-apartments-beech-grove-in/1fekcr7/,1fekcr7,46107,1079,4,2.0,1310.0,41,0,1079,39.71219,-86.07882,Indianapolis
+https://www.apartments.com/aspen-lakes-indianapolis-in/2hstxm9/,2hstxm9,46217,1570,3,2.0,1512.0,31,0,200,39.66224,-86.19528,Glenns Valley
+https://www.apartments.com/2131-north-indianapolis-in/cs7hned/,cs7hned,46202,1500,2,2.0,1143.0,68,53,500,39.79625,-86.15701,Near Northside
+https://www.apartments.com/south-haven-village-apartments-indianapolis-in/fs7exkr/,fs7exkr,46227,1922,3,2.0,1299.0,47,30,1922,39.65318,-86.13174,South Perry
+https://www.apartments.com/annhurst-apartments-indianapolis-in/72zgngx/,72zgngx,46268,1200,2,2.0,864.0,42,25,1200,39.87537,-86.24278,Indianapolis
+https://www.apartments.com/stone-ridge-apartments-indianapolis-in/cf3g5yg/,cf3g5yg,46241,1750,3,2.5,1836.0,13,23,1750,39.68599,-86.2857,Ameriplex
+https://www.apartments.com/broad-ripple-trails-indianapolis-in/3e4ddce/,3e4ddce,46220,1299,3,2.0,1343.0,66,36,1299,39.84781,-86.13565,Canterbury-Chatard
+https://www.apartments.com/carlyle-court-indianapolis-in/67sb6wr/,67sb6wr,46240,1096,2,2.0,1140.0,35,20,1096,39.92558,-86.14261,Nora Far Northside
+https://www.apartments.com/aspen-pointe-apartments-indianapolis-in/f70mgxs/,f70mgxs,46221,1184,2,1.5,814.0,29,22,1184,39.69624,-86.26328,Valley Mills
+https://www.apartments.com/landmark-indianapolis-in/rk29pg3/,rk29pg3,46260,1522,3,2.5,1750.0,6,27,1522,39.8921,-86.19402,Crooked Creek
+https://www.apartments.com/the-retreat-on-washington-indianapolis-in/ys1r1lr/,ys1r1lr,46222,1034,2,1.5,955.0,43,37,1034,39.76915,-86.20889,Hawthorne
+https://www.apartments.com/slate-run-indianapolis-in/nsp9sjq/,nsp9sjq,46268,1040,2,2.0,864.0,5,21,1040,39.92581,-86.213,College Park
+https://www.apartments.com/parc-bordeaux-apartments-indianapolis-in/dhmbxyh/,dhmbxyh,46227,1015,2,1.5,1051.0,24,20,1015,39.69542,-86.10906,Edgewood
+https://www.apartments.com/historic-marcy-village-indianapolis-in/jxccjs4/,jxccjs4,46205,1350,2,1.5,915.0,51,36,1350,39.8399,-86.13404,Indianapolis
+https://www.apartments.com/bristol-square-indianapolis-in/9z1pt66/,9z1pt66,46229,1005,3,2.5,1379.0,7,24,1005,39.80332,-85.98238,Far Eastside
+https://www.apartments.com/the-steeples-on-washington-indianapolis-in/6xmskxt/,6xmskxt,46222,1323,3,2.0,1359.0,60,35,1323,39.76619,-86.20841,Hawthorne
+https://www.apartments.com/mozzo-indianapolis-in/mklzg7h/,mklzg7h,46203,2013,2,2.0,1069.0,80,61,2013,39.75908,-86.14738,Fletcher Place
+https://www.apartments.com/a-62-indianapolis-in/bdbc678/,bdbc678,46220,1350,3,1.5,1064.0,40,26,1350,39.86737,-86.09608,Allisonville
+https://www.apartments.com/northwoods-apartments-indianapolis-in/3cnsc5d/,3cnsc5d,46234,846,2,1.5,800.0,31,30,846,39.77615,-86.32358,Chapel Hill Ben Davis
+https://www.apartments.com/highland-pointe-indianapolis-in/g6l4b7y/,g6l4b7y,46228,1025,2,2.0,1050.0,27,25,1025,39.85027,-86.19394,Wynnedale Spring Hill
+https://www.apartments.com/lighthouse-landings-indianapolis-in/efqw9gn/,efqw9gn,46217,2068,2,2.0,1100.0,21,0,2068,39.66844,-86.19806,Southern Dunes
+https://www.apartments.com/brockton-apartments-townhomes-indianapolis-in/n7gqz6n/,n7gqz6n,46220,1584,3,2.5,1650.0,25,29,1584,39.85694,-86.11167,Indianapolis
+https://www.apartments.com/historic-audubon-court-indianapolis-in/pjywwws/,pjywwws,46219,1200,4,1.5,1653.0,77,37,1200,39.77049,-86.06985,Irvington
+https://www.apartments.com/wellington-village-indianapolis-in/tpjvd9c/,tpjvd9c,46219,1045,3,2.0,1340.0,10,34,350,39.79175,-86.03219,East Warren
+https://www.apartments.com/strawbridge-green-indianapolis-in/w5vpx1h/,w5vpx1h,46237,1200,3,2.5,1311.0,7,26,1200,39.69952,-86.09752,South Emerson
+https://www.apartments.com/wellington-square-apartments-indianapolis-in/34js65e/,34js65e,46220,865,2,1.5,870.0,87,39,865,39.87245,-86.14551,Broad Ripple
+https://www.apartments.com/madison-lofts-indianapolis-in/zpq104w/,zpq104w,46225,1324,2,1.5,929.0,50,35,1324,39.74754,-86.15481,Near Southside
+https://www.apartments.com/braeburn-village-indianapolis-in/3yrph6f/,3yrph6f,46219,1243,4,2.5,1356.0,38,29,1243,39.79708,-86.02094,East Warren
+https://www.apartments.com/meridian-court-south-indianapolis-in/4ezhq6j/,4ezhq6j,46217,1055,2,2.0,1140.0,9,11,1055,39.65922,-86.16273,Linden Wood
+https://www.apartments.com/fox-club-indianapolis-in/qchfybx/,qchfybx,46227,1025,2,2.0,1000.0,29,25,1025,39.70198,-86.12025,University Heights
+https://www.apartments.com/butler-place-indianapolis-in/nhs553q/,nhs553q,46219,750,1,1.5,652.0,73,38,750,39.77064,-86.07945,Irvington
+https://www.apartments.com/the-meridian-south-indianapolis-in/8xcnes0/,8xcnes0,46260,1964,3,2.0,1672.0,19,29,500,39.88335,-86.19828,Crooked Creek
+https://www.apartments.com/college-courts-of-nora-indianapolis-in/p2x21vt/,p2x21vt,46240,1114,2,2.0,1140.0,24,22,1114,39.92275,-86.14399,Nora Far Northside
+https://www.apartments.com/everly-at-meridian-hills-indianapolis-in/0eyqdb1/,0eyqdb1,46260,2009,3,2.0,1659.0,20,23,2009,39.87315,-86.17684,Delaware Trails
+https://www.apartments.com/river-ridge-indianapolis-in/sy2xsz5/,sy2xsz5,46240,1727,2,2.0,1136.0,37,0,1727,39.92387,-86.08854,Keystone
+https://www.apartments.com/woodhaven-park-apartment-indianapolis-in/vz17sre/,vz17sre,46254,1170,3,2.0,1283.0,37,0,1170,39.83222,-86.2749,Northwest High School
+https://www.apartments.com/the-masters-apartments-indianapolis-in/k6ckpsc/,k6ckpsc,46250,1467,2,2.0,1000.0,33,17,1467,39.91828,-86.04569,Castleton
+https://www.apartments.com/indy-flats-indianapolis-in/5l46s5q/,5l46s5q,46202,922,1,1.5,569.0,75,57,922,39.7847,-86.15449,Near Northside
+https://www.apartments.com/stonybrook-commons-indianapolis-in/91ql9w7/,91ql9w7,46235,1200,3,2.0,1190.0,11,0,1200,39.8129,-85.96642,Far Eastside
+https://www.apartments.com/kingston-square-apartments-indianapolis-in/d7rmzbl/,d7rmzbl,46226,1299,3,1.5,1025.0,48,36,1299,39.82201,-86.04288,Arlington Woods
+https://www.apartments.com/notch-at-nora-indianapolis-in/494te5h/,494te5h,46240,1759,2,2.0,1020.0,65,31,1759,39.91104,-86.13513,North Central
+https://www.apartments.com/idlewood-apartments-indianapolis-in/1zlsyj4/,1zlsyj4,46214,1105,2,2.0,1050.0,39,35,1105,39.82012,-86.28232,Eagle Creek
+https://www.apartments.com/darby-court-indianapolis-in/0x1d5n2/,0x1d5n2,46224,1189,3,2.5,1540.0,30,0,1189,39.79523,-86.27007,Indianapolis
+https://www.apartments.com/the-residence-at-white-river-apartments-indianapolis-in/1zy0xc6/,1zy0xc6,46228,2425,3,2.0,1265.0,7,30,100,39.82598,-86.19661,Wynnedale Spring Hill
+https://www.apartments.com/westpark-townhomes-indianapolis-in/vl5hghe/,vl5hghe,46214,1711,3,1.5,1380.0,33,30,1711,39.78232,-86.29999,Chapel Hill Ben Davis
+https://www.apartments.com/the-win-townhomes-indianapolis-in/dw9rvnh/,dw9rvnh,46220,2100,3,1.5,1333.0,91,38,2100,39.86764,-86.14152,Broad Ripple
+https://www.apartments.com/the-fort-apartments-indianapolis-in/kjb3428/,kjb3428,46216,1458,3,3.0,1490.0,44,0,1458,39.8583,-86.00629,Indianapolis
+https://www.apartments.com/historic-irvington-flats-indianapolis-in/g4fl6zx/,g4fl6zx,46219,1469,2,2.0,1069.0,63,37,1469,39.76709,-86.07787,Irvington
+https://www.apartments.com/echo-ridge-indianapolis-in/ny1f3fm/,ny1f3fm,46239,2110,3,2.0,1204.0,10,0,250,39.71328,-86.01665,Five Points
+https://www.apartments.com/pangea-prairies-indianapolis-in/gl3g6zz/,gl3g6zz,46226,1108,3,1.5,1118.0,42,30,1108,39.84004,-86.06409,Devington
+https://www.apartments.com/murphys-landing-indianapolis-in/m7hj3rh/,m7hj3rh,46217,1582,3,2.0,1200.0,60,0,1582,39.66597,-86.184,Dakota Ridge
+https://www.apartments.com/aura-indianapolis-in/lh8wmzg/,lh8wmzg,46228,2142,3,2.0,1508.0,5,23,2142,39.82589,-86.21032,Wynnedale Spring Hill
+https://www.apartments.com/apartments-marten-court-indianapolis-in/xgz8q4q/,xgz8q4q,46226,925,2,1.5,980.0,54,0,675,39.83355,-86.0296,Far Eastside
+https://www.apartments.com/the-brixton-beech-grove-in/k7h05y9/,k7h05y9,46107,1099,2,1.5,855.0,55,0,1099,39.69624,-86.0853,Beech Grove
+https://www.apartments.com/eagle-chase-indianapolis-in/d66lrdj/,d66lrdj,46254,1640,2,2.0,1473.0,28,32,1640,39.83418,-86.28628,Eagle Creek
+https://www.apartments.com/eagle-lake-landing-indianapolis-in/lrsn5nd/,lrsn5nd,46224,2385,3,2.5,1395.0,28,0,2385,39.79228,-86.26266,Indianapolis
+https://www.apartments.com/pangea-courts-indianapolis-in/dn9c6vk/,dn9c6vk,46201,907,2,1.5,780.0,64,0,907,39.77836,-86.09458,Near Eastside
+https://www.apartments.com/woodbrook-apartments-indianapolis-in/e870xym/,e870xym,46254,1340,3,2.0,1100.0,41,27,250,39.84763,-86.24303,Snacks Guion Creek
+https://www.apartments.com/lux-on-capitol-indianapolis-in/gmdq7yy/,gmdq7yy,46204,1450,4,4.0,1536.0,92,64,1450,39.77529,-86.16086,North Meridian
+https://www.apartments.com/castle-creek-apartments-indianapolis-in/l976t1d/,l976t1d,46250,1645,3,2.0,1273.0,50,27,1645,39.91818,-86.07129,Castleton
+https://www.apartments.com/sebring-court-indianapolis-in/z2q88qw/,z2q88qw,46224,1150,3,2.5,1237.0,12,28,1150,39.79152,-86.27182,Indianapolis
+https://www.apartments.com/rosewood-commons-indianapolis-in/lr6rxkd/,lr6rxkd,46254,1250,2,2.0,864.0,49,25,1250,39.85154,-86.23761,Snacks Guion Creek
+https://www.apartments.com/penn-street-tower-indianapolis-in/kegegfc/,kegegfc,46204,1700,2,1.5,1023.0,99,68,1700,39.76902,-86.15592,Circle City
+https://www.apartments.com/stonehedge-apartments-greenwood-in/t8hfdv9/,t8hfdv9,46142,1229,2,1.5,1014.0,38,0,1229,39.63348,-86.15167,Southside Indianapolis
+https://www.apartments.com/river-west-flats-indianapolis-in/pn09lqt/,pn09lqt,46222,1521,2,1.5,880.0,17,40,1521,39.78283,-86.19071,Near Westside Indianapolis
+https://www.apartments.com/cox-creek-at-reagan-crossing-indianapolis-in/szb9m37/,szb9m37,46234,1390,2,2.0,1105.0,15,0,300,39.77716,-86.33725,Avon
+https://www.apartments.com/north-willow-indianapolis-in/76y2dfz/,76y2dfz,46260,1560,3,2.5,1665.0,57,35,1560,39.9133,-86.19272,St Vincent Greenbriar
+https://www.apartments.com/edgewater-apartments-indianapolis-in/qpve4tw/,qpve4tw,46220,1768,2,2.0,1300.0,71,39,1768,39.87811,-86.1453,Broad Ripple
+https://www.apartments.com/brookhaven-at-county-line-senior-apartments-indianapolis-in/1br2kp4/,1br2kp4,46227,870,2,2.0,1085.0,30,24,870,39.63722,-86.13995,Hill Valley
+https://www.apartments.com/timber-point-apartments-indianapolis-in/6280z5s/,6280z5s,46256,1405,4,2.0,1500.0,0,23,1405,39.87164,-86.04246,I-69 Fall Creek
+https://www.apartments.com/village-at-fall-creek-indianapolis-in/l9derhg/,l9derhg,46205,800,1,1.5,635.0,38,46,800,39.82166,-86.13684,Mapleton Fall Creek
+https://www.apartments.com/southern-dunes-indianapolis-in/repm8z3/,repm8z3,46217,1869,3,2.0,1500.0,24,0,1869,39.66063,-86.19926,Southern Dunes
+https://www.apartments.com/oak-park-indianapolis-in/ezedy1p/,ezedy1p,46227,1612,2,2.0,1660.0,48,31,1612,39.6444,-86.12177,South Perry
+https://www.apartments.com/home-place-senior-living-indianapolis-in/4bmdw0k/,4bmdw0k,46221,1450,2,1.5,1100.0,12,0,700,39.6662,-86.27324,Valley Mills
+https://www.apartments.com/the-jameson-indianapolis-in/t6r9gz8/,t6r9gz8,46260,1539,2,2.0,998.0,6,32,1539,39.90289,-86.18964,St Vincent Greenbriar
+https://www.apartments.com/center-point-apartments-indianapolis-in/04cdkh2/,04cdkh2,46214,2105,3,2.0,1291.0,21,36,2105,39.81945,-86.27644,Eagle Creek
+https://www.apartments.com/lockefield-gardens-indianapolis-in/19jndn4/,19jndn4,46202,1323,2,2.5,1450.0,73,49,1323,39.77943,-86.17402,Circle City
+https://www.apartments.com/olivewood-indianapolis-in/rht16l1/,rht16l1,46219,1150,2,2.0,864.0,37,28,1150,39.79589,-86.02866,East Warren
+https://www.apartments.com/reflections-apartments-indianapolis-in/1t1re46/,1t1re46,46260,1708,3,2.5,1400.0,11,30,1708,39.89986,-86.19112,Indianapolis
+https://www.apartments.com/the-villages-of-bent-tree-apartments-indianapolis-in/yh81mgv/,yh81mgv,46268,1709,2,2.0,1188.0,54,33,1709,39.90706,-86.21598,Augusta
+https://www.apartments.com/5700-madison-apartments-edgewood-on-madison-indianapolis-in/c7e1s0f/,c7e1s0f,46227,1295,2,2.0,998.0,50,29,1295,39.68179,-86.1316,Edgewood
+https://www.apartments.com/wyckford-commons-indianapolis-in/rs48730/,rs48730,46214,1649,3,2.5,1576.0,53,30,1649,39.77637,-86.29749,Chapel Hill Ben Davis
+https://www.apartments.com/overlook-at-valley-ridge-apartments-indianapolis-in/7k8mpny/,7k8mpny,46237,1405,3,2.0,1452.0,56,23,1405,39.66799,-86.07995,South Emerson
+https://www.apartments.com/the-courts-of-monon-indianapolis-in/vg4ckge/,vg4ckge,46205,640,1,1.5,593.0,38,46,640,39.82272,-86.13705,Mapleton Fall Creek
+https://www.apartments.com/carlton-apartments-indianapolis-in/9f0w2p4/,9f0w2p4,46268,1015,2,2.0,1140.0,26,33,1015,39.90541,-86.20854,Indianapolis
+https://www.apartments.com/martinique-terrace-indianapolis-in/62hlj5t/,62hlj5t,46227,1239,3,2.0,1300.0,27,23,1239,39.6677,-86.14689,Indianapolis
+https://www.apartments.com/polo-run-apartments-greenwood-in/x5bcy0p/,x5bcy0p,46142,2006,3,2.0,1274.0,64,0,2006,39.62871,-86.12909,Southside Indianapolis
+https://www.apartments.com/river-crossing-indianapolis-in/n4zqlyq/,n4zqlyq,46240,2134,3,2.0,1433.0,42,30,2134,39.91422,-86.10386,Keystone
+https://www.apartments.com/citys-end-indianapolis-in/sfhrlg7/,sfhrlg7,46203,2199,2,2.0,1347.0,77,39,150,39.75217,-86.13407,Fountain Square
+https://www.apartments.com/mansfield-village-townhomes-indianapolis-in/dem9mml/,dem9mml,46227,1675,3,2.5,1690.0,43,20,1675,39.63553,-86.14995,Hill Valley
+https://www.apartments.com/dunbar-court-indianapolis-in/ec0t2cq/,ec0t2cq,46202,850,1,1.5,770.0,75,52,850,39.78156,-86.16882,Downtown Indianapolis
+https://www.apartments.com/the-otis-at-fort-ben-apartments-indianapolis-in/1c3lr96/,1c3lr96,46216,2230,3,2.0,1430.0,45,0,2230,39.85749,-86.0051,Indianapolis
+https://www.apartments.com/wesmont-indianapolis-in/cklkvzg/,cklkvzg,46202,1855,2,2.0,1200.0,41,41,1855,39.7874,-86.13915,Martindale-Brightwood
+https://www.apartments.com/cityview-on-meridian-indianapolis-in/svx9pp7/,svx9pp7,46208,2401,3,2.0,1500.0,74,50,2401,39.82521,-86.15612,Meridian Kessler
+https://www.apartments.com/the-lakes-of-georgetown-indianapolis-in/2qh9feb/,2qh9feb,46268,1100,3,2.0,1179.0,29,25,1100,39.87055,-86.24341,Augusta
+https://www.apartments.com/946-mlk-indianapolis-in/pd9q0lr/,pd9q0lr,46202,2318,3,2.0,1639.0,78,53,2318,39.78064,-86.16852,Circle City
+https://www.apartments.com/ninth-avenue-apartments-indianapolis-in/tp8pveb/,tp8pveb,46237,1369,3,1.5,1105.0,15,0,1369,39.70021,-86.09549,South Emerson
+https://www.apartments.com/the-eclipse-apartments-indianapolis-in/e644vdq/,e644vdq,46260,1750,3,2.5,1600.0,73,33,1750,39.90949,-86.18596,St Vincent Greenbriar
+https://www.apartments.com/coventry-park-village-indianapolis-in/h7wlcb2/,h7wlcb2,46237,1675,3,1.5,1690.0,19,30,1675,39.68682,-86.08459,South Emerson
+https://www.apartments.com/the-life-at-arden-landing-indianapolis-in/sxgddj5/,sxgddj5,46254,1994,4,2.5,1330.0,30,30,1994,39.83259,-86.25452,International Market Place
+https://www.apartments.com/churchman-woods-indianapolis-in/zvv30pw/,zvv30pw,46203,740,2,1.5,725.0,30,0,740,39.71507,-86.07633,Indianapolis
+https://www.apartments.com/ritter-manor-apartments-indianapolis-in/elthlyp/,elthlyp,46218,775,3,3.0,975.0,42,38,775,39.79013,-86.07433,Eastside
+https://www.apartments.com/turtle-creek-indianapolis-in/fsy27ds/,fsy27ds,46260,892,2,1.5,900.0,24,34,892,39.90616,-86.1921,St Vincent Greenbriar
+https://www.apartments.com/wilshaw-apartments-speedway-in/e3wbn7q/,e3wbn7q,46224,1851,2,2.0,1128.0,50,0,1851,39.78685,-86.24053,Speedway
+https://www.apartments.com/the-life-at-wood-springs-indianapolis-in/rqfekh0/,rqfekh0,46254,1315,3,2.0,1266.0,11,33,1315,39.83712,-86.2741,Northwest High School
+https://www.apartments.com/country-club-apartments-indianapolis-in/syzgy54/,syzgy54,46227,810,2,1.5,621.0,58,34,810,39.72087,-86.15312,North Perry
+https://www.apartments.com/astoria-park-apartments-indianapolis-in/5091tqn/,5091tqn,46214,1270,2,1.5,960.0,27,33,1270,39.82019,-86.28622,Eagle Creek
+https://www.apartments.com/brookwood-indianapolis-indianapolis-in/lxtc7jg/,lxtc7jg,46227,1095,3,2.0,1129.0,48,29,1095,39.68828,-86.14684,Edgewood
+https://www.apartments.com/the-retreat-at-carmel-carmel-in/76sbd0z/,76sbd0z,46280,2305,3,2.0,1650.0,8,0,200,39.92919,-86.12873,Carmel
+https://www.apartments.com/the-park-at-greenhill-indianapolis-in/xprw3vp/,xprw3vp,46224,1700,4,2.0,1600.0,42,27,1700,39.7664,-86.26194,Garden City
+https://www.apartments.com/the-wylde-indianapolis-in/b27zf19/,b27zf19,46254,2102,2,2.0,1010.0,14,33,2102,39.8371,-86.27836,Eagle Creek
+https://www.apartments.com/westminster-apartments-greenwood-in/k2npgyb/,k2npgyb,46142,1550,3,2.0,1368.0,62,0,1550,39.63357,-86.12978,Southside Indianapolis
+https://www.apartments.com/the-timbers-apartments-indianapolis-in/x76zrsq/,x76zrsq,46237,1859,3,2.0,1500.0,25,22,1859,39.63828,-86.09145,South Perry
+https://www.apartments.com/oakbrook-village-apartments-indianapolis-in/58zpxtn/,58zpxtn,46254,1498,3,2.0,1204.0,32,25,1498,39.86386,-86.24429,Snacks Guion Creek
+https://www.apartments.com/tgm-autumn-woods-indianapolis-in/d1hy2wl/,d1hy2wl,46250,1465,2,2.0,1285.0,54,28,1465,39.91724,-86.07452,Castleton
+https://www.apartments.com/cambridge-commons-indianapolis-in/mcfe6hl/,mcfe6hl,46254,1249,2,2.0,864.0,34,29,1249,39.84243,-86.24394,Indianapolis
+https://www.apartments.com/riverview-apartments-indianapolis-in/hw97hb2/,hw97hb2,46222,1805,2,2.0,999.0,44,41,500,39.77427,-86.18991,Near Westside Indianapolis
+https://www.apartments.com/oak-lake-at-crooked-creek-indianapolis-in/2lbq438/,2lbq438,46268,1010,2,2.0,1000.0,48,32,1010,39.90996,-86.2266,Augusta
+https://www.apartments.com/cherry-glen-indianapolis-in/rlyeph3/,rlyeph3,46227,899,2,2.0,864.0,43,29,350,39.71001,-86.11621,University Heights
+https://www.apartments.com/lakeshore-apartments-indianapolis-in/8qwppw3/,8qwppw3,46250,1718,2,2.0,1000.0,61,31,1718,39.90582,-86.08482,Castleton
+https://www.apartments.com/southport-at-buck-creek-indianapolis-in/zj50m0x/,zj50m0x,46227,1510,3,2.5,1800.0,45,29,1510,39.66432,-86.13416,South Perry
+https://www.apartments.com/chateau-in-the-woods-indianapolis-in/b7hgn49/,b7hgn49,46220,1334,3,2.0,1590.0,30,24,1334,39.86287,-86.09838,Allisonville
+https://www.apartments.com/castleton-manor-apartments-indianapolis-in/q7hhdey/,q7hhdey,46220,1520,3,2.5,1870.0,57,0,1520,39.87878,-86.06904,Devonshire
+https://www.apartments.com/sycamores-indianapolis-in/lfxzc1g/,lfxzc1g,46227,1911,4,3.0,3000.0,54,30,1911,39.65048,-86.13052,South Perry
+https://www.apartments.com/stanford-court-speedway-in/we92wyj/,we92wyj,46224,1048,2,2.0,1140.0,13,0,1048,39.79033,-86.26915,Speedway
+https://www.apartments.com/linden-square-indianapolis-in/q5yr41z/,q5yr41z,46234,1935,3,2.5,1377.0,29,0,1935,39.77982,-86.33122,Indianapolis
+https://www.apartments.com/st-agnes-indianapolis-in/6pz8wtt/,6pz8wtt,46202,795,1,1.5,750.0,60,56,795,39.78545,-86.15801,Near Northside
+https://www.apartments.com/fallwood-apartments-indianapolis-in/07kg0l3/,07kg0l3,46220,1150,2,2.0,1300.0,10,0,1150,39.8503,-86.09786,Millersville
+https://www.apartments.com/veridian-castleton-indianapolis-in/e4v0xqm/,e4v0xqm,46250,1420,3,2.0,1416.0,20,0,200,39.89158,-86.0628,Allisonville
+https://www.apartments.com/avery-point-indianapolis-in/e6rx97n/,e6rx97n,46250,1955,2,2.5,1150.0,33,30,1955,39.91121,-86.0494,Castleton
+https://www.apartments.com/riverbend-apartments-indianapolis-in/kd9l6e8/,kd9l6e8,46250,1525,2,2.0,1327.0,24,27,1525,39.91523,-86.08174,Castleton
+https://www.apartments.com/canal-overlook-apartments-indianapolis-in/bf4zh7c/,bf4zh7c,46202,1845,2,2.0,1025.0,-,-,1845,39.77328,-86.16453,The Canal
+https://www.apartments.com/edison-at-meridian-hills-indianapolis-in/14y45t7/,14y45t7,46260,2129,3,2.5,2600.0,25,23,2129,39.87362,-86.17296,Delaware Trails
+https://www.apartments.com/the-towers-at-crooked-creek-senior-housing-indianapolis-in/dedm88k/,dedm88k,46268,1121,2,1.5,828.0,58,28,1121,39.89932,-86.21779,Augusta
+https://www.apartments.com/wynbrooke-senior-apartments-indianapolis-in/3yqsq4g/,3yqsq4g,46298,1425,2,1.5,940.0,1,0,1425,39.79339,-86.33871,Avon
+https://www.apartments.com/suncrest-apartments-indianapolis-in/js7tfx6/,js7tfx6,46241,1209,2,2.0,940.0,52,33,1209,39.75148,-86.2617,Garden City
+https://www.apartments.com/fountain-lake-villas-indianapolis-in/e55tvvn/,e55tvvn,46227,1100,3,2.0,1293.0,69,32,200,39.6394,-86.12187,South Perry
+https://www.apartments.com/the-sheldrake-apartments-indianapolis-in/gcybyew/,gcybyew,46208,900,2,1.5,830.0,68,52,900,39.79879,-86.15743,Near Northside
+https://www.apartments.com/pangea-hills-indianapolis-in/1ebfcf4/,1ebfcf4,46224,1468,3,2.0,1076.0,31,32,1468,39.7729,-86.25445,Garden City
+https://www.apartments.com/meridian-lakes-indianapolis-in/6cmw9er/,6cmw9er,46260,1140,2,2.0,1140.0,9,23,1140,39.88802,-86.17099,Delaware Trails
+https://www.apartments.com/pangea-vineyards-indianapolis-in/hsgrr03/,hsgrr03,46235,1200,2,1.5,840.0,39,35,1200,39.83137,-85.98991,Far Eastside
+https://www.apartments.com/gardens-of-canal-court-indianapolis-in/n2n426m/,n2n426m,46202,1568,2,2.0,1311.0,78,55,1568,39.77731,-86.16644,The Canal
+https://www.apartments.com/westbury-court-indianapolis-in/sxe2e05/,sxe2e05,46268,1075,3,2.5,1237.0,31,25,1075,39.89436,-86.2404,Augusta
+https://www.apartments.com/park-66-flats-indianapolis-in/1lgcv47/,1lgcv47,46220,1833,2,2.0,1228.0,74,39,1833,39.87615,-86.14376,Broad Ripple
+https://www.apartments.com/creek-bay-at-meridian-woods-indianapolis-in/g7w9txz/,g7w9txz,46217,1145,2,2.0,1020.0,24,0,1145,39.66895,-86.17844,Linden Wood
+https://www.apartments.com/autumn-chase-indianapolis-in/bb8w3l9/,bb8w3l9,46227,1385,3,2.0,1315.0,4,16,1385,39.64537,-86.10235,South Perry
+https://www.apartments.com/spicewood-indianapolis-in/cfbjm7e/,cfbjm7e,46227,900,3,1.5,1152.0,49,34,900,39.71211,-86.15187,North Perry
+https://www.apartments.com/parkhaven-apartments-indianapolis-in/tx4j6k8/,tx4j6k8,46219,890,2,1.5,853.0,13,30,400,39.79421,-86.0276,East Warren
+https://www.apartments.com/the-stratford-indianapolis-in/b0derkb/,b0derkb,46224,750,3,2.0,1300.0,25,31,750,39.81323,-86.2503,Eagledale
+https://www.apartments.com/pangea-fields-indianapolis-in/zkfrydz/,zkfrydz,46222,1426,3,2.0,1278.0,25,33,1426,39.8166,-86.21644,Eagledale
+https://www.apartments.com/abney-lake-indianapolis-in/m86v9ql/,m86v9ql,46222,1113,3,1.5,1200.0,14,30,1113,39.82218,-86.21844,Eagledale
+https://www.apartments.com/pleasant-run-senior-apartments-indianapolis-in/y6xs26s/,y6xs26s,46237,1420,2,1.5,940.0,26,23,1420,39.64506,-86.08631,South Perry
+https://www.apartments.com/tgm-shadeland-station-indianapolis-in/9kktqc6/,9kktqc6,46256,1335,2,2.0,1000.0,25,30,1335,39.88415,-86.04064,I-69 Fall Creek
+https://www.apartments.com/lake-castleton-indianapolis-in/qedv4jz/,qedv4jz,46256,1750,2,2.5,1234.0,53,33,1750,39.89247,-86.04506,I-69 Fall Creek
+https://www.apartments.com/harbour-pointe-indianapolis-in/k8t6sgb/,k8t6sgb,46205,1344,2,1.5,1065.0,19,32,1344,39.83699,-86.11344,Millersville
+https://www.apartments.com/the-legend-at-speedway-speedway-in/h0yhfl2/,h0yhfl2,46224,1171,2,1.5,896.0,54,0,1171,39.79611,-86.25251,Speedway
+https://www.apartments.com/canterbury-house-apartments-mann-road-indianapolis-in/21mgzzc/,21mgzzc,46221,1148,4,2.0,1383.0,1,0,1148,39.6689,-86.25131,Valley Mills
+https://www.apartments.com/metropolitan-fishers-fishers-in/423jv2l/,423jv2l,46038,1379,2,2.0,1006.0,21,0,1379,39.9359,-86.05721,Fishers
+https://www.apartments.com/grande-reserve-at-geist-indianapolis-in/p6wm8vs/,p6wm8vs,46236,1695,3,2.0,1381.0,54,0,1695,39.90129,-85.96557,Geist
+https://www.apartments.com/512-e-minnesota-st-indianapolis-in/pe2bf9r/,pe2bf9r,46203,1125,2,1.5,905.0,63,39,1125,39.74493,-86.14895,Bates-Hendricks
+https://www.apartments.com/briergate-indianapolis-in/s460sx4/,s460sx4,46229,905,2,1.5,852.0,23,30,250,39.80905,-86.00737,Far Eastside
+https://www.apartments.com/the-boardwalk-at-westlake-indianapolis-in/r7tm5g1/,r7tm5g1,46224,1044,3,2.5,1300.0,17,32,1044,39.77177,-86.26394,Garden City
+https://www.apartments.com/auburn-hill-indianapolis-in/rwx3ej1/,rwx3ej1,46224,1410,3,2.0,1202.0,44,34,1410,39.77829,-86.26218,Garden City
+https://www.apartments.com/the-connect-apartments-indianapolis-in/7dj986y/,7dj986y,46260,1450,3,2.5,1310.0,12,30,1450,39.90054,-86.19403,St Vincent Greenbriar
+https://www.apartments.com/cross-creek-apartments-indianapolis-in/0zh5801/,0zh5801,46254,970,2,2.0,910.0,41,25,970,39.85794,-86.2428,Snacks Guion Creek
+https://www.apartments.com/spinnaker-court-indianapolis-in/704rmdz/,704rmdz,46214,984,2,2.0,1140.0,14,30,984,39.82,-86.29108,Eagle Creek
+https://www.apartments.com/estates-of-creekside-apartments-indianapolis-in/jxbt7z5/,jxbt7z5,46227,1494,3,2.0,1175.0,61,27,1494,39.6489,-86.11477,South Perry
+https://www.apartments.com/the-hermitage-indianapolis-in/b01lk1b/,b01lk1b,46224,1265,3,2.0,1080.0,62,0,1265,39.79725,-86.25604,Indianapolis
+https://www.apartments.com/woods-of-castleton-indianapolis-in/694cxws/,694cxws,46256,1334,3,1.5,1325.0,34,34,1334,39.90704,-86.03915,I-69 Fall Creek
+https://www.apartments.com/pine-glen-apartments-indianapolis-in/w9l6zzk/,w9l6zzk,46227,1200,3,2.0,1457.0,62,27,1200,39.70603,-86.15529,North Perry
+https://www.apartments.com/park-at-eagle-creek-indianapolis-in/ryvxv93/,ryvxv93,46254,1696,3,2.0,1264.0,7,11,200,39.85147,-86.27963,Eagle Creek
+https://www.apartments.com/eagle-creek-apartments-indianapolis-in/b2rgj4c/,b2rgj4c,46234,1535,3,2.0,1360.0,0,0,1535,39.82798,-86.31498,Eagle Creek
+https://www.apartments.com/beechmill-apartments-indianapolis-in/rncfre2/,rncfre2,46227,1120,2,1.5,939.0,51,26,1120,39.64167,-86.13442,South Perry
+https://www.apartments.com/regency-lihtc-indianapolis-in/2zv7v1c/,2zv7v1c,46227,1088,3,1.5,1398.0,38,22,1088,39.68527,-86.15546,Southdale
+https://www.apartments.com/scandia-apartments-indianapolis-in/9er4df5/,9er4df5,46250,1679,3,2.5,1759.0,35,0,1679,39.92207,-86.07089,Castleton
+https://www.apartments.com/ayr-indianapolis-in/fkdb8hv/,fkdb8hv,46220,1954,2,2.0,1177.0,51,33,250,39.86594,-86.11725,Glendale
+https://www.apartments.com/the-lodge-at-trails-edge-indianapolis-in/1wp4yw6/,1wp4yw6,46240,1395,2,2.0,1084.0,32,18,1395,39.92478,-86.13803,Nora Far Northside
+https://www.apartments.com/the-continental-towers-at-vermont-place-indianapolis-in/lskywte/,lskywte,46204,1528,2,2.0,1100.0,96,67,1528,39.77318,-86.15808,Indianapolis
